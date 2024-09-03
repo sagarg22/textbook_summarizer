@@ -47,20 +47,24 @@ chapter = ''
 for i in para_list:
   chapter += to_string(i)
 
-"""## Extract Keywords using Sentence Transformer"""
+"""## Extract Keywords using Sentence Transformer and RAKE"""
 
 from rake_nltk import Rake
-rake_nltk_var = Rake()
-
 from sklearn.feature_extraction.text import CountVectorizer
 
+# Step 1: RAKE extraction
+rake = Rake()
+rake.extract_keywords_from_text(chapter)
+rake_keywords = rake.get_ranked_phrases()
+    
+# Step 2: CountVectorizer extraction
 n_gram_range = (1, 1)
 stop_words = "english"
-
-# Extract candidate words/phrases
-count = CountVectorizer(ngram_range=n_gram_range, stop_words=stop_words).fit([chapter])
-candidates = count.get_feature_names_out()
-# candidates
+count_v = CountVectorizer(ngram_range=n_gram_range, stop_words=stop_words).fit([chapter])
+cv_candidates = count_v.get_feature_names_out()
+    
+# Combine RAKE and CountVectorizer candidates
+candidates = list(set(rake_keywords + list(cv_candidates)))
 
 from sentence_transformers import SentenceTransformer
 
@@ -125,12 +129,16 @@ stop_words = "english"
 top_n = 10
 model = SentenceTransformer('distilbert-base-nli-mean-tokens')
 def keyword_extraction(chapter):
+  rake = Rake()
+  rake.extract_keywords_from_text(chapter)
+  rake_keywords = rake.get_ranked_phrases()
+    
   n_gram_range = (1, 1)
-  # Extract candidate words/phrases
   count_v = CountVectorizer(ngram_range=n_gram_range, stop_words=stop_words).fit([chapter])
-  ch_candidates = count_v.get_feature_names_out()
-  docs_embedding = model.encode([chapter])
-  candidate_embedding = model.encode(ch_candidates)
+  cv_candidates = count_v.get_feature_names_out()
+    
+  candidates = list(set(rake_keywords + list(cv_candidates)))
+  candidate_embedding = model.encode(candidates)
   # distances = cosine_similarity(doc_embedding, candidate_embeddings)
   keywords = max_sum_sim(docs_embedding, candidate_embedding, ch_candidates, top_n=10, nr_candidates=20)
   # keywords = [candidates[index] for index in distances.argsort()[0][-top_n:]]
