@@ -1,0 +1,1076 @@
+[
+   {
+      "subject":"ECE-2026 Piazza Guidelines",
+      "content":"Please follow the following guidelines when posting on Piazza:1. Piazza is a place to get help or hints, not direct answers. Questions such as: \u201cWhat\u2019s the answer to Problem 1.1?\u201d will be ignored or removed. Similarly, posts that give the answers to specific problems will be removed.2. Questions regarding the methodology of a problem or where to find information pertaining to a problem are encouraged. For example: \u201cI am unclear on how the Fourier coefficients are affected when a constant is added to the function; will someone please explain or provide a location for further information?\u201d3. Piazza is meant to serve as an open and public forum for student discussion of problems. It will be regularly monitored by the instructors, but students are encouraged to use Piazza to both elicit and distribute help to/from other students. Remember Guidelines 1 and 2.4. Before asking a question, read other related posts to ensure that the question has not yet been answered. Duplicate questions will be removed.5. When posting a question, give the post a meaningful title to facilitate searching. &#34;HW 2.5a&#34; is much better than &#34;HW help needed&#34;6. Most Piazza posts should be posted to the entire class. Private posts should be posted to the instructors only when they contain information that should not be released to the entire class (e.g., your MATLAB code, or your work for solving a homework problem).If you want to remain anonymous to your classmates or to everyone, instead of making a private post, you can change the setting that says &#34;Show my name as&#34; at the bottom of creating a new Piazza post.7. Do not post your entire MATLAB code. Only code snippets are allowed to be posted to the entire class. If you are trying to debug your code and cannot find the error, you may make a private Piazza post containing all your code (which is sent only to the instructors).8. Piazza is meant to serve as a mode to quickly and concisely answer student questions. If your question takes a full paragraph to ask or requires extensive explanation then it is better-suited for office hours.9. Questions about grades specific to you should not be posted on Piazza, but instead emailed to the appropriate grader.10. Piazza is meant to serve as a method to supplement student learning. Do not rely on Piazza too heavily as a means to \u201cfind\u201d solutions to problems; it is important to learn the concepts behind the problems and how to apply them, and that requires mind exercises.11. Posts in Piazza should be related to the course.12. Posts in Piazza should be professional and understandable.13. Piazza is a public forum; do not use it for private correspondences. Any post that does not conform to the guidelines will be noted and removed.#pin",
+      "created":"2020-08-12T02:33:56.663Z",
+      "views":115
+   },
+   {
+      "subject":"Quiz 1 Time",
+      "content":"Is the quiz 1 going to be during class time? Or could it be accessed through a certain time?",
+      "created":"2020-09-13T18:19:38.612Z",
+      "views":85
+   },
+   {
+      "subject":"CanvasID on practice exam",
+      "content":"What is CanvasID on practice exam? is it same as GTID?",
+      "created":"2020-09-14T07:06:39.720Z",
+      "views":82
+   },
+   {
+      "subject":"The recorded lecture videos don&#39;t have the right permissions?",
+      "content":"When I tried to watch the recorded videos M1-4, it took me to a separate site and displayed access denied. Are the permissions on the videos not set to all students?\n",
+      "created":"2020-08-18T14:35:32.711Z",
+      "views":81
+   },
+   {
+      "subject":"Lab01 report",
+      "content":"How well made does the lab report need to be? Do we need annotations/captions for each pictures? Do we need cover page and good formatting?\u00a0",
+      "created":"2020-09-01T13:51:21.058Z",
+      "views":78
+   },
+   {
+      "subject":"Lab 01",
+      "content":"I&#39;m confused on why we were given the phase in section 3.1 of the lab. The Matlab function we were given (onecos) automatically calculates the phase. Is there something I&#39;m missing? If so can someone please explain what we should plug into camp (complex amplitude).\n\nAlso do we keep the sample rate at 8000 since the question doesn&#39;t mention it?",
+      "created":"2020-08-26T15:12:59.603Z",
+      "views":77
+   },
+   {
+      "subject":"what does if ( nargin &lt; 4 ) %-- Allow optional input argument mean? Lab2",
+      "content":"For lab 2, in section 3.2, there is a line that states\n\n\n\nif( nargin &lt; 4 ) %-- Allow optional input argument\n\nI&#39;m not sure what it does and whether we need to include it. \n\n\n",
+      "created":"2020-09-13T22:27:26.962Z",
+      "views":77
+   },
+   {
+      "subject":"Lab 01 3.3",
+      "content":"The lab instructions say to attach the output wav file to the report. I was wondering how I should go about doing this since gradescope only accepts pdf files?",
+      "created":"2020-08-27T15:32:36.255Z",
+      "views":76
+   },
+   {
+      "subject":"Q2.2",
+      "content":"Im having a really hard time figuring out where to start with this problem. This is the question that asks us to find an expression for all value of N",
+      "created":"2020-09-04T14:30:47.081Z",
+      "views":75
+   },
+   {
+      "subject":"Lab 1 due date",
+      "content":"When is Lab 1 due?\nI can only see the assigned date on the file which says August 24, 2020.",
+      "created":"2020-08-24T15:51:10.479Z",
+      "views":73
+   },
+   {
+      "subject":"Lab Report Code",
+      "content":"I understand that for the lab report, we are asked to include both plots and codes. But is there a convention for how we include our code? Should we copy and paste our codes into the document or should we include a screenshot from Matlab? I definitely prefer including a screenshot because I don&#39;t need to fix the indentations and the color of the comments is more obvious, but I wanted to double-check.\n\nThank you!",
+      "created":"2020-09-01T20:37:28.875Z",
+      "views":72
+   },
+   {
+      "subject":"Exam1",
+      "content":"How exactly should I study for the upcoming exam? Are there past papers or even some sort of practice exam that I can go through to test my knowledge?",
+      "created":"2020-09-16T20:50:01.661Z",
+      "views":72
+   },
+   {
+      "subject":"Homework Clarification",
+      "content":"For the homework&#39;s, do you want us to draw or write down the question and then answer it on a scratch sheet of paper if we don&#39;t have a printer?",
+      "created":"2020-08-20T13:20:02.336Z",
+      "views":71
+   },
+   {
+      "subject":"Homework",
+      "content":"Hello, for homework 1, problem 1, it has parts a and b. I know that we have to write our approach and details for every single problem, so do we write one approach/detail for part a and another for part b? Or can we just write our approach/details once, and then do both parts?",
+      "created":"2020-08-20T16:23:09.896Z",
+      "views":71
+   },
+   {
+      "subject":"HW2, Q2.3",
+      "content":"1) In\u00a0 question 2.3, part a, HW2, we have a negative DC value, so when representing the DC value on the freq-domain, it should be as 9e^(i*pi)? or just 9?\u00a0\n2) in the same question, for ex) we have: A0&#43;Acos(wt&#43;phi) - Acos(wt&#43;phi) , should we change it to addition,\u00a0 A0&#43;Acos(wt&#43;phi) &#43; Acos(wt&#43;phi) and the negative sign becomes e^(j*pi) ?\u00a0\n",
+      "created":"2020-09-06T22:13:18.292Z",
+      "views":71
+   },
+   {
+      "subject":"Quiz 1 Policies",
+      "content":"Quiz 1 open note, open book. Calculators are allowed. MATLAB is allowed.\n",
+      "created":"2020-09-16T16:14:12.217Z",
+      "views":71
+   },
+   {
+      "subject":"exam1",
+      "content":"what chapters will be covered this exam",
+      "created":"2020-09-17T05:22:39.184Z",
+      "views":71
+   },
+   {
+      "subject":"Test 1",
+      "content":"Is there Fourier series on the test?",
+      "created":"2020-09-18T10:43:34.276Z",
+      "views":71
+   },
+   {
+      "subject":"Test1 question 6",
+      "content":"the question was write y(t), but in the provided box where to write answer,\n\nit starts with x(t) = \u00a0\n\nshould I just write both x(t) and y(t)?",
+      "created":"2020-09-18T13:16:31.799Z",
+      "views":71
+   },
+   {
+      "subject":"Homework 1, Problem 1.6",
+      "content":"How do you start on these problems? I don&#39;t understand what the intuition is for these problems, or how the hint is used to solve them. I&#39;m guessing they have something to do with roots of unity, but what was taught in the videos don&#39;t apply to these problems, unless if I&#39;m missing something.",
+      "created":"2020-08-25T00:50:06.509Z",
+      "views":70
+   },
+   {
+      "subject":"hw01_1.6",
+      "content":"If we are adding two polar forms on calculator and writing down the answer in the polar form, how do we show our work?\n\nFor example, if I wrote this down $$ae^{jx}+be^{jy}=re^{j\\theta}$$ and found the answer using calculator will this equation be sufficient? Or do I have to show the work by converting each polar form into rectangular to add them and then convert it back to polar?",
+      "created":"2020-08-28T20:25:58.476Z",
+      "views":70
+   },
+   {
+      "subject":"Lab01_3.2",
+      "content":"I&#39;m having trouble with plotting ece2026lab01.wav from t=0.2 to t=0.42. How do we index by time in matlab? What I&#39;ve done is find the index of the point at 0.2 and at 0.42 and plotted between those indices.",
+      "created":"2020-08-30T16:06:21.152Z",
+      "views":70
+   },
+   {
+      "subject":"HW 2",
+      "content":"When will the HW2 file be posted on the Canvas page?",
+      "created":"2020-08-31T10:28:44.668Z",
+      "views":70
+   },
+   {
+      "subject":"lab01 3.1",
+      "content":"I have a question about plotting. So I understand that the the signal should be 3 seconds long but I am confused about two things. Why do we need to have the ts end at tend/freq and how would I graph from .7 to 1 seconds is it supposed to pick that section the the 3 second ling wave?",
+      "created":"2020-08-31T22:16:04.462Z",
+      "views":70
+   },
+   {
+      "subject":"HW2 Problem 5 geometrical diagram?",
+      "content":"For problem 2.5 in homework 2, I got the answer for A and phi, but I&#39;m not sure how I am supposed to explain my answer with a geometrical diagram. I&#39;m guessing it probably has something to do with the unit circle, but I don&#39;t know how the unit circle would relate to the equation.\nWhat geometrical design am I expected to draw to explain my answer?\nThanks in advance!",
+      "created":"2020-09-02T09:35:00.989Z",
+      "views":70
+   },
+   {
+      "subject":"Code in Lab Report",
+      "content":"Will we lose points for not having comments in our code that describe what the code is doing? Or is it just a thing that is recommend to help with grading?",
+      "created":"2020-09-04T08:11:15.211Z",
+      "views":69
+   },
+   {
+      "subject":"Homework 3.5b",
+      "content":"For part b of problem 3.5, do I have to make a spectrum for when A = 2, or do I have to pick the A that make v(t) &#43; A and plot the spectrum for that instead?\u00a0",
+      "created":"2020-09-12T16:47:27.041Z",
+      "views":69
+   },
+   {
+      "subject":"lab01_3.3",
+      "content":"On the announcement it says to plot the reversed sound wave xhr from t = 0.2s to 0.42s. Do you want us to reverse the sound wave first and then plot the time between 0.2s and 0.42s of the new sound wave? Or do you want us to plot between the time 0.2s and 0.42s of the original (not reversed) sound wave?",
+      "created":"2020-08-27T20:25:28.516Z",
+      "views":68
+   },
+   {
+      "subject":"Negative DC on frequency spectrum",
+      "content":"If we have an equation for a sinusoid that had to be plotted on a frequency spectrum, what would a negative DC signal look like? For example, x(t) = -A &#43; cos(B) &#43; cos(C)\n\nI assume it will be a regular peak at 0 Hz with height Ae^(-j\u03c0), but I&#39;m not sure.",
+      "created":"2020-09-06T13:27:13.093Z",
+      "views":68
+   },
+   {
+      "subject":"A4 vs US Letter sheet problem",
+      "content":"Since I am outside the US, I have to print on A4 sheets (8.3 x 11.7 inches) which has a slight offset compared to the US Letter sheets (8.5 x 11 inches) and I noticed this caused a little issue on gradescope where the box for the question was outside the range of my answer.\n\nWill this be a problem?\nIf so, is there a work-around to this? I might be able to use digital ink.\n\nReference: https://papersizes.io/compare?c1=a&amp;p1=a4&amp;c2=us&amp;p2=letter",
+      "created":"2020-09-17T12:16:37.820Z",
+      "views":68
+   },
+   {
+      "subject":"Test start time",
+      "content":"So for the end period of 2 pm , do we need to finish the test at 2pm, or we can start at 2?\n\n",
+      "created":"2020-09-18T10:51:31.752Z",
+      "views":68
+   },
+   {
+      "subject":"Test1",
+      "content":"Canvas says it has 7 questions but thhere are only 6 on the template?",
+      "created":"2020-09-18T12:30:21.546Z",
+      "views":68
+   },
+   {
+      "subject":"Homework Problem 1.5",
+      "content":"For Problem 1.5, do I have to account for 3 and -3 case? Or do I keep it as sqrt(9) and solve?\u00a0",
+      "created":"2020-08-24T04:16:20.169Z",
+      "views":67
+   },
+   {
+      "subject":"Q2.4d",
+      "content":"When it says the real part for the expression given, do I take the real part and then add it to x(t), or is that the real part so I just add it to x(t)?",
+      "created":"2020-09-03T22:04:46.654Z",
+      "views":67
+   },
+   {
+      "subject":"Lab02 3.1.2",
+      "content":"I am not exactly sure how to combine s(t) with the sinusoid I create. Do I just multiply the matrix xx from reading the audio in with the matrix of the sinusoid I am creating?",
+      "created":"2020-09-10T09:47:29.488Z",
+      "views":67
+   },
+   {
+      "subject":"HW3 3.4 Graphing",
+      "content":"How specific do I have to be with my plots, they\u2019re just rough sketches right I don\u2019t need to plot specific points? Also I can not seem to get the plotspec function on Matlab to work properly I\u2019m not getting any lines \u00a0and it\u2019s plotting in the wrong interval.",
+      "created":"2020-09-13T12:49:32.681Z",
+      "views":67
+   },
+   {
+      "subject":"Canvas Matlab Tutorial",
+      "content":"Hi! In the lab 0 instruction, it mentions there are Matlab tutorials on canvas page. I tried looking for it but couldn&#39;t find it. Could anyone tell me how to access those? Thx!!",
+      "created":"2020-08-19T02:38:39.745Z",
+      "views":66
+   },
+   {
+      "subject":"Where do we find the recordings for yesterday&#39;s recitation?",
+      "content":"",
+      "created":"2020-08-21T10:41:11.114Z",
+      "views":66
+   },
+   {
+      "subject":"lab01_3.4 (optional recording)",
+      "content":"Do we get extra points for doing the optional recording activity?",
+      "created":"2020-08-27T16:41:53.895Z",
+      "views":66
+   },
+   {
+      "subject":"About Lab Report",
+      "content":"Is there any example for the lab report that we need to submit?",
+      "created":"2020-08-30T17:34:54.844Z",
+      "views":66
+   },
+   {
+      "subject":"Lab01 3.3 wav",
+      "content":"In 3.3, I have to submit the output wav file to the report, but how can I attach .wav file to an pdf file?\n",
+      "created":"2020-08-31T05:11:14.991Z",
+      "views":66
+   },
+   {
+      "subject":"3.3 LAb2",
+      "content":"Does the inverse wav file have to go from .2 to .42 or just keep it regular?",
+      "created":"2020-09-02T19:15:40.347Z",
+      "views":66
+   },
+   {
+      "subject":"Lab02 3.1.2 Soundsc Error",
+      "content":"Could anyone tell me why I&#39;m getting this error? x1 is the .* of the carrier frequency signal and the s(t). Both signals are the same length and can be played from the soundsc.\n",
+      "created":"2020-09-10T21:52:12.444Z",
+      "views":66
+   },
+   {
+      "subject":"lab2 - 3.1.2",
+      "content":"\n\n\nwhat is the frequency fc in 3.1.2 when it asks us to generate a sinusoid with carrier frequency fc(lab01)\n\n\n",
+      "created":"2020-09-12T20:31:09.910Z",
+      "views":66
+   },
+   {
+      "subject":"LAB02 3.2",
+      "content":"What&#39;s a calling sequence?",
+      "created":"2020-09-15T16:27:02.000Z",
+      "views":66
+   },
+   {
+      "subject":"2018 Summer practice exam.",
+      "content":"Can anyone explain how to solve this problem?\n\nI&#39;m confusing..",
+      "created":"2020-09-17T08:25:17.059Z",
+      "views":66
+   },
+   {
+      "subject":"Where is the Time Zone and Test Time survey located on Canvas?",
+      "content":"I received an announcement to take a survey with no link. Is there supposed to be a place on Canvas with the survey?\nThanks!",
+      "created":"2020-08-26T20:28:47.450Z",
+      "views":65
+   },
+   {
+      "subject":"Lab 3.1.2",
+      "content":"My graph is not showing up when I try to run the code and graph I was wondering what I need to do for the graph to show? ",
+      "created":"2020-09-15T18:22:39.173Z",
+      "views":65
+   },
+   {
+      "subject":"Practice Exam won&#39;t submit",
+      "content":"When I try to submit my 2-page pdf to gradescope, it says &#34;The PDF you are trying to upload has 1 page, but the assignment requires at least 2.&#34; I don&#39;t know how to bypass this.\u00a0",
+      "created":"2020-09-17T04:51:41.343Z",
+      "views":65
+   },
+   {
+      "subject":"Test Grades",
+      "content":"When will the Test scores come out?",
+      "created":"2020-09-18T17:35:10.498Z",
+      "views":65
+   },
+   {
+      "subject":"HW Problem 1.5",
+      "content":"Hi, can someone please help me with problem 1.5? Ive been looking in my notes but can&#39;t seem to find a formula that would help me.",
+      "created":"2020-08-25T02:00:21.168Z",
+      "views":64
+   },
+   {
+      "subject":"hw1_1.6",
+      "content":"Part C is kind of confusing me. I changed the index of the summation so that it is summing from 0 to 19 instead of -3 to 16 but the answer I calculated isn&#39;t the same as when I put the question into Matlab, why is this? Changing the index shouldn&#39;t affect the final result as long as we take into account the extra constant, which in this case is e^(pi*i/3).",
+      "created":"2020-08-30T08:13:14.669Z",
+      "views":64
+   },
+   {
+      "subject":"Homework 3 Problem 3.4a",
+      "content":"In homework 3, problem 3.4a says &#34;xa(t) = cos(750t &#43; 80cos(2pi)&#34; and is missing a parenthesis. Where is the missing parenthesis supposed to go, after the 750t or after the cos(2pi)?\nThanks in advance!\n",
+      "created":"2020-09-04T20:29:09.789Z",
+      "views":64
+   },
+   {
+      "subject":"Lab #02 Prelab 2.3.1c",
+      "content":"The Prelab is asking us to determine the range of instantaneous frequencies.  The cos appears to be 10*cos(2pi*(1000t^2&#43;400t&#43;.1)).  And the range is from 0 - 1.5 seconds.  Is the question asking us from the frequency at t = 0 and t = 1.5?  So from 10*cos(2*pi*.1) -&gt; 10*cos(2*pi(2850.1))  ?  So would I draw a parabola with a domain (0 - 1.5) and range (.1 - 2850.1) ?",
+      "created":"2020-09-06T23:50:17.137Z",
+      "views":64
+   },
+   {
+      "subject":"Lab02 3.2",
+      "content":"Does the gradient we calculate from the inputs need to be divided by 2? I&#39;m only asking because the prelab specifically mentions\u00a0 that 2mu=slope.",
+      "created":"2020-09-15T11:41:49.087Z",
+      "views":64
+   },
+   {
+      "subject":"Test upload",
+      "content":"Just in case there is something wrong with the uploading process.\nIs it ok to email the test to professors?\n\nThx!",
+      "created":"2020-09-18T10:47:50.548Z",
+      "views":64
+   },
+   {
+      "subject":"CanvasID",
+      "content":"Where can I located my CanvasID?",
+      "created":"2020-09-18T13:23:55.398Z",
+      "views":64
+   },
+   {
+      "subject":"Question 5",
+      "content":"Is the bigger A and the A inside the parenthesis the same A?",
+      "created":"2020-09-18T14:06:15.246Z",
+      "views":64
+   },
+   {
+      "subject":"question3",
+      "content":"Do we solve it as an imaginary value or can we convert it to real?",
+      "created":"2020-09-18T14:48:59.850Z",
+      "views":64
+   },
+   {
+      "subject":"lab01_3.1",
+      "content":"What fs should we use for the 3.1? Should we just use 8000?",
+      "created":"2020-08-29T22:43:37.337Z",
+      "views":63
+   },
+   {
+      "subject":"Lab 01_3.1",
+      "content":"Lab01_3.1: I think there is an error when calling the function onecos. Oneco function requires 5 inputs, but the example we have in the instruction when calling the function has 6 inputs! am I wrong, or I am missing something?\u00a0\n\n",
+      "created":"2020-08-30T21:42:48.068Z",
+      "views":63
+   },
+   {
+      "subject":"Spectrum",
+      "content":"When we are plotting the complex amplitudes on the spectrum, should we make phi between (-pi, pi]?\n\n",
+      "created":"2020-09-08T04:33:49.190Z",
+      "views":63
+   },
+   {
+      "subject":"Quiz 1 Canvas Submission",
+      "content":"On the quiz, will the file upload box on Canvas still be accessible after the 50 minute timer for the quiz expires, or do we have to upload the quiz to Canvas while there is still time remaining in this 50 minute testing period?\u00a0",
+      "created":"2020-09-17T15:51:05.267Z",
+      "views":63
+   },
+   {
+      "subject":"Test submission",
+      "content":"I started the test before 2pm but it says it will be submitted soon on canvas. I thought we had until 3:30 to submit the test. or 90 minutes after we started if before 2pm.",
+      "created":"2020-09-18T17:58:28.963Z",
+      "views":63
+   },
+   {
+      "subject":"Quiz Dates",
+      "content":"Hello,\n\nWhere can I find information regarding the dates of each of the quizzes?",
+      "created":"2020-08-24T09:27:45.526Z",
+      "views":62
+   },
+   {
+      "subject":"Lab 1 Link Broken",
+      "content":"I&#39;m not sure if anyone else had this problem, but in the steps for Lab 1 it says to find and download the most recent ZIP file for sindrill. I think I found the link on the CDROM get started page, but when I press on it, it takes me to a professors page and I cant find a download link there. I see in the link path it should be taking me to a different page, but I end up landing on the about the professor page which doesnt have a download link. Is there a different way to access the link?",
+      "created":"2020-08-24T16:49:42.054Z",
+      "views":62
+   },
+   {
+      "subject":"Decimal Points for HW1.6 and in general",
+      "content":"When converting to polar and to rectangular, the values are not always pretty, I.e. you won&#39;t always get pi for the theta in polar. When it&#39;s a decimal, how many decimal points should we round to and is there a rounding error buffer on exams and homework?",
+      "created":"2020-08-25T17:10:13.613Z",
+      "views":62
+   },
+   {
+      "subject":"lab01 3.5",
+      "content":"in Completion lab report, should I include every tasks in 3.5?\n\nI mean, should I attach code of 3.5 i~vi, 3.5.1~2?",
+      "created":"2020-08-31T05:24:03.914Z",
+      "views":62
+   },
+   {
+      "subject":"Lab #02 3.3 Spectrogram",
+      "content":"To use Spectrogram on Matlab, I have to install signal processing toolbox, but I can&#39;t install it with my GT address. How can I install that toolbox?",
+      "created":"2020-09-09T06:39:17.787Z",
+      "views":62
+   },
+   {
+      "subject":"Lab1-3.1",
+      "content":"For the plot that we need to submit for xs1 and xs2, are we going to plot them between 0 and 3 seconds or we can plot thwm between 0.7 and 1 second?",
+      "created":"2020-09-03T19:59:07.396Z",
+      "views":61
+   },
+   {
+      "subject":"hw03_3.4",
+      "content":"For each of the sinusoids, we only have to sketch the instantaneous frequency right? Or are we supposed to sketch the actual sinusoid?",
+      "created":"2020-09-14T13:22:51.002Z",
+      "views":61
+   },
+   {
+      "subject":"Matlab on test?",
+      "content":"Will there be matlab on the quiz?",
+      "created":"2020-09-18T12:14:07.113Z",
+      "views":61
+   },
+   {
+      "subject":"HW3 #3.4 a)",
+      "content":"is this\u00a0\ncos(750t)&#43;80cos((2pi*t))\nor cos(750t&#43;80cos(2pi*t))",
+      "created":"2020-09-12T01:12:47.614Z",
+      "views":60
+   },
+   {
+      "subject":"About the Spectrum",
+      "content":"If we are asked to draw sinusoids on the spectrum, do we need to make sure that the amplitudes of these sinusoids must be posituve?\u00a0",
+      "created":"2020-09-11T22:13:38.401Z",
+      "views":59
+   },
+   {
+      "subject":"AM Modulation",
+      "content":"Is the sum of two cosines with different frequencies always be written as a product of two cosines (AM Modulation)? or do the sum of the cosines have to share the same amplitude?",
+      "created":"2020-09-13T04:11:07.896Z",
+      "views":59
+   },
+   {
+      "subject":"HW2 - Q2.2",
+      "content":"Why wouldn&#39;t N=54m also be a set of solutions as if we look at the unit circle then the sum of all cos for angles from pi to 2pi would also be 0",
+      "created":"2020-09-13T12:06:05.364Z",
+      "views":59
+   },
+   {
+      "subject":"Fall 2019 practice problem",
+      "content":"Can someone explain how they went from step 1 to step 2? I don&#39;t really understand how they got rid of the summation in this problem?",
+      "created":"2020-09-17T03:57:56.701Z",
+      "views":59
+   },
+   {
+      "subject":"Test logistics",
+      "content":"I forgot to write my name on the pdf!\nWill there be any penalty?",
+      "created":"2020-09-18T17:12:48.358Z",
+      "views":58
+   },
+   {
+      "subject":"hw01",
+      "content":"If we have answer z equal to a positive integer, do you want us to write it as polar form if the question asks to convert to polar form?\nFor example, do we write z = 5 or z = 5e^(j*0*pi)?",
+      "created":"2020-08-28T18:58:57.889Z",
+      "views":57
+   },
+   {
+      "subject":"Office hours",
+      "content":"Where can we find information about TA&#39;s office hours?",
+      "created":"2020-09-13T13:15:37.093Z",
+      "views":57
+   },
+   {
+      "subject":"Homework 4",
+      "content":"How do I approach problem 4.4 on the homework?\u00a0",
+      "created":"2020-09-19T21:03:37.967Z",
+      "views":57
+   },
+   {
+      "subject":"4.5c",
+      "content":"Do I simply add the Fourier coefficient of a square wave with the triangular wave?\u00a0",
+      "created":"2020-09-20T03:16:42.290Z",
+      "views":57
+   },
+   {
+      "subject":"General Question",
+      "content":"I don&#39;t know if this was answered sometime during the modules or interactive sessions, but will we eventually have to add sinusoids with different frequencies in this class or are we only focusing on same frequency sinusoids?\u00a0",
+      "created":"2020-08-26T01:17:28.839Z",
+      "views":56
+   },
+   {
+      "subject":"show my codes",
+      "content":"If I want to show my codes to get helps, can I shows my codes if I post it private?\n",
+      "created":"2020-08-30T14:32:11.558Z",
+      "views":56
+   },
+   {
+      "subject":"HW1 1.4 &amp; 1.7",
+      "content":"I know that we are not supposed to turn in 1.4 and 1.7, but will answers be provided for us to check our work?",
+      "created":"2020-09-01T01:25:05.127Z",
+      "views":56
+   },
+   {
+      "subject":"hw04_4.4",
+      "content":"For 4.4, are we supposed to do inverse fourier series to find x(t) first and then find the fourier coefficients for y(t) again?\u00a0",
+      "created":"2020-09-17T17:10:27.978Z",
+      "views":56
+   },
+   {
+      "subject":"4.3c Harmonics",
+      "content":"In problem 4.3c we are asked to express x3(t) in terms of DC and first three harmonics. Do the first three harmonics include &#43; and - k; i.e the first harmonic is when k is -1 added to when k is 1? Also should x3 be in sinusoidal form/ convert exponentials to cos?",
+      "created":"2020-09-21T00:25:26.085Z",
+      "views":56
+   },
+   {
+      "subject":"HW3 #3.4 Graphing Conventions",
+      "content":"Should the frequency values on the frequency-time graphs be decimal approximations or exact values? (are exact values acceptable)",
+      "created":"2020-09-13T03:02:54.516Z",
+      "views":55
+   },
+   {
+      "subject":"2019 fall quiz1",
+      "content":"\nFor this question, how should I find K, D, and W?",
+      "created":"2020-09-17T20:23:37.778Z",
+      "views":55
+   },
+   {
+      "subject":"Welcome to Piazza!",
+      "content":"\nPiazza is a Q&A platform designed to get you great answers from classmates and instructors fast. We've put together this list of tips you might find handy as you get started:\n\n Ask questions!\n\nThe best way to get answers is to ask questions! Ask questions on Piazza rather than emailing your teaching staff so everyone can benefit from the response (and so you can get answers from classmates who are up as late as you are).\n\nEdit questions and answers wiki-style.\n\nThink of Piazza as a Q&A wiki for your class. Every question has just a single students' answer that students can edit collectively (and a single instructors\u2019 answer for instructors).\n\n Add a followup to comment or ask further questions.\n\nTo comment on or ask further questions about a post, start a followup discussion. Mark it resolved when the issue has been addressed, and add any relevant information back into the Q&A above.\n\n Go anonymous.\n\nShy? No problem. You can always opt to post or edit anonymously.\n\n Tag your posts.\n\nIt's far more convenient to find all posts about your Homework 3 or Midterm 1 when the posts are tagged. Type a \u201c#\u201d before a key word to tag. Click a blue tag in a post or the question feed to filter for all posts that share that tag.\n\n Format code and equations.\n\nAdding a code snippet? Click the pre or tt button in the question editor to add pre-formatted or inline teletype text. \nMathematical equation? Click the Fx button to access the LaTeX editor to build a nicely formatted equation.\n\n View and download class details and resources. \n\nClick the Course Page button in your top bar to access the class syllabus, staff contact information, office hours details, and course resources\u2014all in one place!\n\n\nContact the Piazza Team anytime with questions or comments at team@piazza.com. We love feedback!",
+      "created":"2020-08-12T02:28:15.206Z",
+      "views":53
+   },
+   {
+      "subject":"cos to complex amplitude",
+      "content":"When it say cos(omega(t) &#43; phase), then phase is negative, but when it says cos(omega(t) - phase), the phase is positive. When we convert the cos equation to complex amplitude, only the phase goes into the power place, correct? So, if we had cos(omega(t) &#43;.5pi), it will be e^(-j.5pi), and if we had cos(omega(t) -.5pi), it will be e^(j.5pi)?",
+      "created":"2020-09-01T18:55:16.684Z",
+      "views":53
+   },
+   {
+      "subject":"test question 6",
+      "content":"I don&#39;t understand what question 6 is asking? I think it means the combination of the sinusois represented in x(t) and y(t), is that what is it asking for?\n",
+      "created":"2020-09-18T16:22:09.725Z",
+      "views":53
+   },
+   {
+      "subject":"hw4.2 Table listing of non-zero Fourier series coefficients",
+      "content":"Problem 4.2 [ii] asks to make a table listing. What are the columns for this table?",
+      "created":"2020-09-19T15:29:52.559Z",
+      "views":53
+   },
+   {
+      "subject":"camp is an unrecognizable variable when I copy and paste the sample code",
+      "content":"For problem 3.1 of Lab 1 when I paste the sample code for generating a sinusoid, I receive this error message. What do I do?",
+      "created":"2020-09-02T17:56:25.629Z",
+      "views":52
+   },
+   {
+      "subject":"2018 Spring quiz 1 question",
+      "content":"\nWhy is the highlighted question B?",
+      "created":"2020-09-18T01:42:12.613Z",
+      "views":51
+   },
+   {
+      "subject":"Homework 4.3.d, how specific",
+      "content":"When finding an equation for the Fourier coefficients, do we stop at a simplified integral or keep going until there are no integrals?",
+      "created":"2020-09-20T02:45:03.823Z",
+      "views":51
+   },
+   {
+      "subject":"hw4.5",
+      "content":"when you plug in 0 in the equation for ak should you get the DC component since a0 is the DC?\u00a0",
+      "created":"2020-09-21T17:36:31.972Z",
+      "views":51
+   },
+   {
+      "subject":"HW2",
+      "content":"When will the HW2 solutions be posted?",
+      "created":"2020-09-12T08:28:18.775Z",
+      "views":50
+   },
+   {
+      "subject":"Recitation video week 3 L06",
+      "content":"I cannot find the recitation recording for week 3 of section L06. Can someone point me to where it is? And if it has not been uploaded, could someone please upload it?\n\nThe media gallery is empty, myMedia is empty, and the Bluejeans tab in canvas is empty.",
+      "created":"2020-09-06T00:38:02.840Z",
+      "views":48
+   },
+   {
+      "subject":"HW4.3",
+      "content":"since fk = k * f0, would f1 = 1 * f0 so f1 = f0?\n\n-- sorry I was confusing. problem solved!",
+      "created":"2020-09-21T13:27:24.227Z",
+      "views":47
+   },
+   {
+      "subject":"About Module 12",
+      "content":"At the 15:00 of module 12, we can see a formula which is &#34;cos(2pi(660)t)sin(2pi(12)t)&#34;. I think it shoule be &#34;cos(2pi(660)t)cos(2pi(12)t)&#34; according to what the module is about before 15:00, but I am not sure. Can someone help me with this, please? Thanks!",
+      "created":"2020-09-03T01:49:20.542Z",
+      "views":46
+   },
+   {
+      "subject":"When do I add a Justification/Approach",
+      "content":"For all of the questions the approach is pointed out in the question itself. So I don&#39;t know where to add justifications or what to say. Can I at least know which questions have a justification point?",
+      "created":"2020-09-21T20:34:29.063Z",
+      "views":40
+   },
+   {
+      "subject":"HW4.5c",
+      "content":"I am a bit stuck on 4.5c. Are we just adding the area under the curve for one period and multiplying the answer by the fundamental freq and times k?",
+      "created":"2020-09-22T01:25:44.342Z",
+      "views":39
+   },
+   {
+      "subject":"Module 18 - shift by frequency sign change?",
+      "content":"In this slide for module 18, why does the amplitude change sign only at these specific points? It makes sense that we&#39;d multiply by 1/2, so the sign stays the same for all the other points. But just the amplitudes at &#43;/- 50hz in the original signal change sign after the shift, why?\n",
+      "created":"2020-09-21T21:51:25.749Z",
+      "views":38
+   },
+   {
+      "subject":"Will grades come out this week?",
+      "content":"Will exam 1 grades come out this week?",
+      "created":"2020-09-23T01:54:13.146Z",
+      "views":37
+   },
+   {
+      "subject":"Exam 1 - Problem 3 Solution Key Incorrect?",
+      "content":"The solution key for problem 3 on exam 1 appears to find not he smallest value of N for which the equality holds but the second smallest value of N for which the equality holds. Since we are only dealing with the imaginary component of the summation, only a half circle turn is necessary to produce a 0 sum to return the -j value.\n\nFor example, consider the k=-20 example in the solution key. It is indeed true that a summation of 80 terms would equal 0, but it is also true that a summation of terms k=-19 to k=19 would yield 0 if considering only the imaginary component. Since we are interested in returning -j, which is the starting value of k=-20, only a summation from k=-20 to k=19 is necessary to produce the intended result. This N=19 is the smallest value of N, while N=60 is the next smallest value of N to produce the intended result.\n\nPlease correct me if the above is incorrect.",
+      "created":"2020-09-23T16:29:38.115Z",
+      "views":34
+   },
+   {
+      "subject":"09.21 lecture",
+      "content":"I wanted to watch the lecture again so I started to watch it, but from 21:34, there is only blue screen and nothing pops up on the screen. Could you go over this problem? Thank you",
+      "created":"2020-09-22T09:45:34.491Z",
+      "views":31
+   },
+   {
+      "subject":"HW5.2b",
+      "content":"For HW 5.2b. I can&#39;t seem to find 3 frequencies for x(t) that satisfies\u00a0 0&lt; f i&lt; 6khz. I could only find 2. The first one is the original. And the second one is already borderline.\u00a0 Am I missing something here?",
+      "created":"2020-09-23T00:26:44.417Z",
+      "views":28
+   },
+   {
+      "subject":"C to D converter and D to C converter",
+      "content":"According to the 2fs &gt; max f rule. If this condition is satisfied x(t) will equal y(t). Otherwise x(t) # y(t). My question is regardless of fs. If you convert from x(t) to x(n) and x(n) to x(t), you will still be using the same fs and doing the same math, wouldnt that make y(t) = x(t) for all fs?",
+      "created":"2020-09-23T02:00:12.187Z",
+      "views":28
+   },
+   {
+      "subject":"question 3.5",
+      "content":"It says I get 1 point off because of not having the approach or justification. For every problem I have written the approach/justification at the end. If you go all the way next, then it shows for 3.5 a and b.",
+      "created":"2020-09-17T12:34:45.639Z",
+      "views":15
+   },
+   {
+      "subject":"lab01_3.1",
+      "content":"For question 3.1, the task asks to plot three sinusoids, xs1, xs2, and xss between time 0.7s and 1.0s. Because the frequency of the sinusoid xs1 is 400 cycles/s, when I plot the graph the curves are very close together. Do you still want us to use this time interval? (The image of xs1 plot is attached below)\n\nAlso, are we supposed to plot the 3 sinusoids on one graph or 3 separate graphs?\n",
+      "created":"2020-08-27T02:46:22.365Z",
+      "views":14
+   },
+   {
+      "subject":"HW2 problem 2.5",
+      "content":"Hi,\nSo Ive looked at the other posts on Piazza and know that drawing a figure is the best way to approach this question, but just wanted to get some more help.\u00a0\nI have this so far:\nAe^jpi/3=1&#43;e^j(phase)\nThe 1&#43;e^j(phase) is in the hint but I don&#39;t know how to draw a figure to help me with this question.",
+      "created":"2020-09-07T23:14:02.508Z",
+      "views":14
+   },
+   {
+      "subject":"Lab 02 3.1.2",
+      "content":"I have no idea what&#39;s wrong with my code.\u00a0\nwith those three different carrier frequencies, x(t) sounds same and has identical waves in plot.\n\nCan you help me to find problem?",
+      "created":"2020-09-08T14:42:28.498Z",
+      "views":14
+   },
+   {
+      "subject":"lab01_3.6",
+      "content":"For part 3.6 of the lab, are we supposed to get a sinusoid plot that looks at the one below? Also, do we have to include the plots for xx1, xx2, xx3, xx4, and xx5 on the report as well? I was just wondering if I was on the right track.\nThanks!\n\n",
+      "created":"2020-08-29T14:57:27.423Z",
+      "views":13
+   },
+   {
+      "subject":"Lab01",
+      "content":"Hello,\n\nFor problem 3.5, its the one where we try to have the same graph given to us without using a for loop. Im so close and the x axis looks correct. The purple and green graph look good, except near the start of the graph. On my graph, the green graph hits a y value of 1, near the start, but the original graph does not.\n\nN=180;xk=(1/60)*(1:N);rk=sqrt((1/60*(1:N)).*((1/60*(1:N))-0.5))&#43;.25;sig=exp(j*2*pi*rk);plot(((1/60)*(1:N)), real(sig), &#39;mo-&#39;, ((1/60)*(1:N)), imag(sig), &#39;go-&#39; )",
+      "created":"2020-08-29T16:12:28.195Z",
+      "views":13
+   },
+   {
+      "subject":"Phasor Addition (Lab Problem)",
+      "content":"I cannot get xx and yy to equal each other, and I'm not sure why. I have confirmed that Matlab is producing `xTot` that is equivalent to when I calculate the sum by hand on my calculator. In addition, as I've written the code, I am sure the complex amplitudes being used for each part of the problem are consistent. What am I overlooking?\n\nPlot:\n\n\nCode:\n```\nc1 = 2*exp(2*1j);\nc2 = exp(1.5*1j);\nc3 = 1.5*exp(-1*1j);\nc4 = 3;\nc5 = 1.2*exp(-1.2*1j);\n\nhz = 200;\nfs = 100;\ntstart = 0;\ntend = 1;\n\nxx1 = onecos(c1, hz, fs, tstart, tend);\nxx2 = onecos(c2 , hz, fs, tstart, tend);\nxx3 = onecos(c3, hz, fs, tstart, tend);\nxx4 = onecos(c4, hz, fs, tstart, tend);\nxx5 = onecos(c5, hz, fs, tstart, tend);\n\nxx = xx1 + xx2 + xx3 + xx4 + xx5;\n\ntotX = c1 + c2 + c3 + c4 + c5;\n\nyy = onecos(totX, hz, fs, tstart, tend);\n\nisequal(xx, yy)\n\nts = 0:1/fs:1;\n\nplot(ts, xx, 'b-');\nhold on;\nplot(ts, yy, 'c-');\n```",
+      "created":"2020-08-29T22:09:26.858Z",
+      "views":13
+   },
+   {
+      "subject":"Lab01 3.1",
+      "content":"This is what I made for lab01, but I don&#39;t know why I got that weird graph.\n\nWhat is the problem??",
+      "created":"2020-08-30T14:39:32.176Z",
+      "views":13
+   },
+   {
+      "subject":"hw02_2.3",
+      "content":"For question 2.3 (a) the phase for one sinusoid is in pi and -pi. Are we supposed to leave them as pi and -pi to show that they are conjugates? Or should I change both of the phase to be pi and pi to satisfy $$-\\pi\nAlso, do we need to label the y-axis?\n\n",
+      "created":"2020-09-02T18:41:47.099Z",
+      "views":13
+   },
+   {
+      "subject":"lab02_3.1.2",
+      "content":"For part 3.1.2. I read in the speech signal from the Lab2voice.wav. However, I have no idea how to create a signal x(t) with the carrier frequency. Can you give any hints on how to approach this question? Screenshot below shows my progress so far.\n",
+      "created":"2020-09-09T14:32:01.280Z",
+      "views":13
+   },
+   {
+      "subject":"Problem 5.1b",
+      "content":"How do I know which normalized frequency to use since it&#39;s $$2\\pi l+ \\hat{w}$$, where l = 1,2,3,.. ?",
+      "created":"2020-09-24T01:58:51.977Z",
+      "views":13
+   },
+   {
+      "subject":"Search for Teammates!",
+      "content":"PA.load(\"/dashboard/project_partners\", null, function(data){ $('#' + 'questionText').html(data);}); #pin",
+      "created":"2020-08-12T02:28:15.403Z",
+      "views":12
+   },
+   {
+      "subject":"Two questions",
+      "content":"I had two questions. One about the lab and one about the homework.\nFor 1.6C on the homework, Ive looked on posts on Piazza about it but still a little confused. After using the identity, I have two remaining terms (-z18-z19). I get a number that is close to the value i get on Matlab, but the theta value seems to be off. Did I use the identity incorrectly?\n\nFor the lab question, its about section 3.3, which is where we halve the wave and then reverse it. Im confused on how we should reverse the signal. I know we have to use the indices but is it just 0.42:1/fs:0.2? Or is there a better way to do this?",
+      "created":"2020-08-30T16:35:07.802Z",
+      "views":12
+   },
+   {
+      "subject":"Lab 3.1",
+      "content":"Screenshot_2020-08-31_at_8.59.23_AM.png\n\nThis is my code for lab exercise 3.1. When trying to plot(tt, xs1) I get issues in my code. I think my main issue is confusion as to how to set the time interval and plot it. Right now I get errors.\u00a0\u00a0",
+      "created":"2020-08-31T08:02:05.404Z",
+      "views":12
+   },
+   {
+      "subject":"My graph is weird..",
+      "content":"I don&#39;t know why I got this graph..\nwhich part I did wrong..?",
+      "created":"2020-08-31T08:43:25.714Z",
+      "views":12
+   },
+   {
+      "subject":"3.5",
+      "content":"I made a plor of a weird signal without using for loop but it doesn&#39;t work\u00a0\n",
+      "created":"2020-09-01T09:19:48.923Z",
+      "views":12
+   },
+   {
+      "subject":"lab3.5.2",
+      "content":"I have to change weird signal with out making for loop\u00a0\nbut I don&#39;t know how to do that\u00a0\nfor K = 1: N\n\u00a0 \u00a0 xk(k) = k/60; this part\u00a0 how to convert\n\u00a0 \u00a0I changed like this\u00a0 \u00a0k = (1:N)/60; but it doesn&#39;t work.\u00a0\n\u00a0 I have no idea..\u00a0",
+      "created":"2020-09-03T13:03:13.834Z",
+      "views":12
+   },
+   {
+      "subject":"HW3problem 3.1a",
+      "content":"I forgot what to do in the case there are two cosine functions that are multiplied together. I know that I can use exp^jtheta and find the spectrum from there but the two cosine functions that are getting multiplied is confusing me.",
+      "created":"2020-09-09T01:48:30.214Z",
+      "views":12
+   },
+   {
+      "subject":"hw04_4.4",
+      "content":"I was not sure how to solve for x(t) and then modify it to y(t) = 9x(t&#43;0.04)-7 with Fourier series coefficients $$c_k$$. So, I experimented with plugging the given piece-wise expression for $$a_k$$ to find x(t) and use that to find y(t). Nothing similar to this was covered in this week&#39;s lectures so I have no idea if this is what we are supposed to do. Can you take a look at my work and see if I am on the right track? Thank you!\n",
+      "created":"2020-09-17T17:38:19.312Z",
+      "views":12
+   },
+   {
+      "subject":"lab01_3.3",
+      "content":"For section 3.3, I do not know what to write for the ??s inside xhr = xh( ?? : ?? : ?? ).\nSince we are using colons, I thought it would be something to do with the time indices for the values. I tried xhr = xh( 0.2 : 1/fs : 0.42); because we want to plot the graph for that time interval, but it does not seem to be the right answer.\u00a0\nCan you give me any hints on how to do this?",
+      "created":"2020-08-27T15:57:24.200Z",
+      "views":11
+   },
+   {
+      "subject":"I don&#39;t know what&#39;s the problem",
+      "content":"",
+      "created":"2020-08-31T05:03:41.009Z",
+      "views":11
+   },
+   {
+      "subject":"I don&#39;t know what&#39;s the problem",
+      "content":"I changed\u00a0 this for loop without using for loop\u00a0\n%--- make a plot of a weird signalN = 180;for k=1:Nxk(k) = k/60;rk(k) = sqrt( xk(k)*xk(k) - 0.5 )&#43; 0.25;sig(k) = exp(j*2*pi*rk(k));endplot( xk, real(sig), &#39;mo-&#39;, xk, imag(sig), &#39;go-&#39; )\nbut I didn&#39;t get it, where is the problem\u00a0\ncan you check it please?",
+      "created":"2020-08-31T07:37:06.141Z",
+      "views":11
+   },
+   {
+      "subject":"3.2 Help",
+      "content":"xx = audioread(&#39;ECE2026Lab01.wav&#39;);[xx, fs] = audioread(&#39;ece2026lab01.wav&#39;);Samples = length(xx);Srate = Samples / fs;tt = 0.2:.01:0.42;plot(tt,Srate);\n\n\nHere is my code for part 3.2 of lab 1. When I run it nothing appears on the plot so my question is what have I done wrong/what am I missing.",
+      "created":"2020-09-02T18:34:31.002Z",
+      "views":11
+   },
+   {
+      "subject":"hw02_2.2",
+      "content":"I tried to solve 2.2 using the sum of roots of unity and was wondering if I was allowed to convert the sinusoid into the complex form then just set the complex amplitude to be a sum of roots of unity. I have no idea if I was on the right track, so if this is completely wrong then could you give me a hint on how to approach this question? Thank you!\n",
+      "created":"2020-09-02T18:36:15.287Z",
+      "views":11
+   },
+   {
+      "subject":"Q2.4d",
+      "content":"I am still kind of confused on what exactly it means by the previous question. So, for the real part of the equation, I would just extract the X values such as the -6 and other X values from the complex amplitude?",
+      "created":"2020-09-04T14:00:05.912Z",
+      "views":11
+   },
+   {
+      "subject":"Question 2.4a",
+      "content":"I may be oversimplifying this question, but after looking over the examples of two sided spectrums, I thought that the left and right hand side were pretty much the same, except for the opposite sign, but would have the same numbers. However, the graph we are given doesn&#39;t seem to be to scale, is that on purpose or am I not doing this problem correctly?",
+      "created":"2020-09-05T03:50:38.534Z",
+      "views":11
+   },
+   {
+      "subject":"Have question about calculation in hw2",
+      "content":"In problem 2.1, should I calculate myself to convert polar form to rectangular by my own, or is it okay to just using calculation to calculate addition?\n\nhere&#39;s my answer, please tell me if I&#39;m wrong",
+      "created":"2020-09-06T08:53:16.466Z",
+      "views":11
+   },
+   {
+      "subject":"Prob 2.2",
+      "content":"I know I have to use phasor addition in this question, and I have my answer, but I&#39;m quit confusing because in my calculation, N is infinite.\u00a0\n\nIs this a right approach to solve this problem?",
+      "created":"2020-09-06T10:13:17.953Z",
+      "views":11
+   },
+   {
+      "subject":"Question 3.4 a",
+      "content":"When I try to do a spectogram of my plot it is not centered at 750 hz.  What am i doing wrong?  \n\n\n\nt = 0:1/1000:15\nxt = cos(750*2*pi*t &#43; 80*cos(2*pi*t))\nspectrogram(xt,128,120,128,1000,&#39;yaxis&#39;)\n\nIt seems to be centered on 250 hz.",
+      "created":"2020-09-11T19:23:03.213Z",
+      "views":11
+   },
+   {
+      "subject":"HW Grading and Submission",
+      "content":"None of my submissions have been graded yet, I don&#39;t know if thats a problem with my assignments or it&#39;s like that for everyone.\n\nI also want to know if the HW can be done on iPad electronically through handwritten text rather than on loose paper.\u00a0",
+      "created":"2020-09-12T11:48:33.056Z",
+      "views":11
+   },
+   {
+      "subject":"Exam materials",
+      "content":"Does the exam 1 consist of the first 3 homework&#39;s? Does it include the videos from last week? Does it include homework 4?",
+      "created":"2020-09-14T12:14:48.112Z",
+      "views":11
+   },
+   {
+      "subject":"Homework 3 Q 3.5b",
+      "content":"When I was solving for A in the second part of 3.5b, I graphed the two sinusoids and looked at their lowest points. I got a point that was very close to the to the sum of the minima of each signal. Should I round or does it not matter that A is not a integer? (I got -12.982 but the sum of the minima is 13 for the signals)\n\nThank you!",
+      "created":"2020-09-14T14:16:24.405Z",
+      "views":11
+   },
+   {
+      "subject":"Question 5 homework 3",
+      "content":"When we draw the spectrum, do we draw when A = 2 or the A we found?",
+      "created":"2020-09-14T14:24:51.432Z",
+      "views":11
+   },
+   {
+      "subject":"exam",
+      "content":"Do we start the exam in both places at the same time? It says start the practice exam on canvas, it also says start the assignment on Grade scope?",
+      "created":"2020-09-14T14:40:29.022Z",
+      "views":11
+   },
+   {
+      "subject":"hw02_solutions",
+      "content":"For 2.1b, is the $$\\omega_0=2019\\pi$$ instead of $$45\\pi$$?",
+      "created":"2020-09-14T14:48:45.333Z",
+      "views":11
+   },
+   {
+      "subject":"how to plot",
+      "content":"Lab 3.1.2 how to plot a segment of 0.1s of signals ..\n[ss,fs] = audioread(&#39;Lab2voice.wav&#39;);fsamp = 10000;nlength = length(ss);totsec = nlength/fs;tt = (0: 1/fsamp: totsec)&#39;;% carrier frequencies 25(Hz)freq1 = 25;xx = ss .* cos(2*pi*freq1*tt(1:nlength));soundsc(xx,fsamp);plot(t,xx(1:le))\u00a0 &lt;-----what should I change here to plot 0.1 segment of the signal",
+      "created":"2020-09-14T15:55:02.323Z",
+      "views":11
+   },
+   {
+      "subject":"Practice exam template",
+      "content":"Dear Instructor,Where can I download the template for practice exam? It says that it&#39;s on gradescope but when i click on the assignment, it just take me to this page. Is the pdf available for download once I click start assignment??\n\n",
+      "created":"2020-09-15T13:47:26.600Z",
+      "views":11
+   },
+   {
+      "subject":"Phasor addition in last problem of HW1",
+      "content":"I received this feedback on this problem, but I'm a little unsure how to apply what it is saying. Is distributing like I did incorrect? Why would I need to use phasor addition here? I'm a little confused.\n\n",
+      "created":"2020-09-15T14:43:19.076Z",
+      "views":11
+   },
+   {
+      "subject":"hw04_4.2b",
+      "content":"For 4.2b, I expanded the product of sinusoids and changed it into a sum of three sinusoids. But, when I try to find the GCD of the three sinusoids, the fundamental frequency seemed to be too small compared to the harmonics of the sinusoids. Did I do something wrong with the expansion?\u00a0\n",
+      "created":"2020-09-16T14:48:17.426Z",
+      "views":11
+   },
+   {
+      "subject":"Lab Verification",
+      "content":"I had lab verification on tuesday, but I wasn&#39;t able to finish the plotting.\nIs there any ways for me to verify lab labwork before due date?\none of TA told me I can come in 3-4 pm, but since I&#39;m out of state, the time difference is &#43;13hours. So I had to get on the meeting on 4am which is very hard for me...\nIs there any chance that I can do?\nI&#39;m currently done with all of my work.",
+      "created":"2020-09-17T18:20:56.182Z",
+      "views":11
+   },
+   {
+      "subject":"Spring 2015 Quiz 1",
+      "content":"Could you please explain where the 30*2 comes from\n",
+      "created":"2020-09-18T00:45:39.912Z",
+      "views":11
+   },
+   {
+      "subject":"Canvas ID",
+      "content":"I haven&#39;t started the quiz yet and I saw a post on this earlier but still confused. Is our Canvas ID similar to our Georgia Tech email? Like is it, first name last name and a few numbers? I have gone to Canvas and logged out and tried to find my Canvas ID, but it automatically logs me in so I don&#39;t know what to do to find it.  I have also gone to Canvas settings but couldn&#39;t find it",
+      "created":"2020-09-18T12:37:41.676Z",
+      "views":11
+   },
+   {
+      "subject":"Question 6A",
+      "content":"The template asks for x(t) but the question is asking for y(t). just to make sure you want us to write the equation for y(t) correct?\u00a0",
+      "created":"2020-09-18T13:14:35.438Z",
+      "views":11
+   },
+   {
+      "subject":"Sinusoids Multiplication Formula Order",
+      "content":"When going from multiplication to addition of sinusoids, can we choose which frequencies are a result of sum and which are a result of difference, or do you want the second Product term to always be the difference result?In HW 3, you posted the formula:Cos(A)*Cos(B) = (1/2)[Cos(A&#43;B) &#43; Cos(A-B)]But can we also have:Cos(A)*Cos(B) = (1/2)[Cos(B&#43;A) &#43; Cos(B-A)]?",
+      "created":"2020-09-18T14:45:48.732Z",
+      "views":11
+   },
+   {
+      "subject":"hw05_5.1",
+      "content":"I watched the lecture videos for this week and read the assigned textbook chapters as well, but I am having trouble trying to solve problem 5.1. I was able to do part (a) by using the digital frequency equation. $$\\hat{\\omega}=\\frac{2\\pi f}{f_s}$$.\n\nI am stuck on parts (b) through (d) and have no idea where to start.\u00a0\n\nFor part (b), I saw that the phase is $$+\\pi/4$$ instead of $$-\\pi/4$$. But, for part (c) and (d) it is just a DC component and I do not know how the original x(t) was converted into that x[n] expression.\n\nAny hint would be helpful. Thanks!\u00a0",
+      "created":"2020-09-24T02:37:07.598Z",
+      "views":11
+   },
+   {
+      "subject":"Introduce Piazza to your students",
+      "content":"PA.load(\"/dashboard/introduce_piazza\", null, function(data){ $('#' + 'questionText').html(data);});",
+      "created":"2020-08-12T02:28:15.279Z",
+      "views":10
+   },
+   {
+      "subject":"hw01_1.6",
+      "content":"For question 1.6 b), I get two different answers when I try it on my calculator and when I convert the polar forms into cartesian and solve it. I&#39;ve attached my work below.\u00a0\n\n\n",
+      "created":"2020-08-28T20:56:42.479Z",
+      "views":10
+   },
+   {
+      "subject":"Recent Product Updates on Piazza",
+      "content":"Dear Instructors, \n\nWelcome back to the Fall term! In case you missed our Spring product updates, we\u2019ve included them here. We've also linked at the bottom helpful information regarding the Piazza Network, as well as resources for teaching during COVID. In a separate Piazza post, we\u2019ll be sharing product enhancements that we\u2019re working on next.\n\nEnhanced Locking Functionality for Classes\nWith instructors needing to administer online tests, we\u2019ve added new capabilities for you to schedule class lock dates/times from your \u2018Manage Class\u2019 page. We\u2019ve added support so you can lock individual posts as well.\n\nIn addition, while your class is locked, you can allow students to only post privately to instructors, ensuring they have a way to communicate with you while minimizing risk of sensitive content being posted to the class. Shortly, you\u2019ll also have the option to entirely shut down access to your Piazza class while your class is locked.\n\nImproved Piazza Folders Functionality\nWith the input of dozens of instructors, we\u2019ve redesigned folders to better work for your needs. You are now able to more easily create, rename, reorder, and delete folders from your \u2018Manage Class\u2019 page. Changes you make will be pushed in real-time to your open Piazza tabs, making it seamless to add/edit/arrange folders from one tab while you are in the midst of creating a post in another tab.\n\nPiazza \u2018Live Q&A\u2019 For Virtual Lectures/Office Hours\nTo support the transition to virtual lectures and office hours, we launched Live Q&A. Live Q&A allows instructors to easily see and address the questions that students most care about during a live lecture or office hour session. You can host Live Q&A sessions with distinct start and end times, during which students can ask questions and upvote one another\u2019s questions. Questions asked during a Live Q&A session are stored under your Live Q&A feed so as not to clutter your primary class Q&A feed.\n\nMore details on starting Live Q&A for your class can be found here:\nhttps://support.piazza.com/support/solutions/folders/48000670520\n\nClass Reading Lists to Help Students Keep Up-To-Date\nTo help students easily find information related to frequently asked questions, you can now create a reading list for your Piazza class. Posts in the reading list appear in a special \u2018Reading List\u2019 bin right below the pinned posts section of your class feed, and are student-specific. You can also require that students read a particular post in the reading list before being allowed to add a new post, which can help reduce the number of redundant questions.\n\nAdditional information on reading lists can be found here:\nhttps://support.piazza.com/support/solutions/articles/48000986672-instructors-create-a-reading-list-for-your-students\n\nSupport for Copy/Paste and Drag/Drop of Images, Files\nThanks to the input of many professors, we now support copy/paste and drag/drop of images and files in our editor.\n\nAddition of mhchem to Piazza LaTeX Editor\nYou can now write beautiful chemical equations using mhchem, integrated into our LaTeX editor. You can find the manual for the mhchem package here:\nhttps://mhchem.github.io/MathJax-mhchem/\n\nAbility to Edit Resource Section Names\nYou\u2019re now able to edit resource section names in your \u2018Resources\u2019 tab on Piazza.\n\nAbility to Edit Group Names\nYou\u2019re now able to edit group names on Piazza. Groups are a great way to encourage collaboration among smaller groups of students in your class. Visit \u2018Manage Class\u2019 to configure groups.\n\nAdditional details on setting up groups for your class can be found here:\nhttps://support.piazza.com/support/solutions/articles/48000616687-instructors-create-groups\n\nPiazza Available as an App within Microsoft Teams\nPer the request of several professors who were looking to better integrate their students\u2019 experience, Piazza is now available as an app from within Microsoft Teams.\n\nA step-by-step guide to add your class to Teams can be found here:\nhttps://support.piazza.com/support/solutions/articles/48001152480-adding-a-piazza-class-to-microsoft-teams\n\n* * *\n\nWe also wanted to share these additional resources regarding the Piazza Network and insights on teaching during COVID:\n\nHow and Why We Created the Piazza Network\nWith guidance from several professors who had questions regarding the Piazza Network (our separate opt-in service that helps students find jobs and internships), we published an article that outlines how and why we created the Piazza Network. We have grown because of our relationships with professors and the guidance we have received from you over these past ten years. It was important to us to share details on the Piazza Network with you, and to address any misinformation or confusion that may be out there.\n\nAdditional information on how and why we created the Piazza Network can be found here:\nhttps://medium.com/piazza/how-and-why-did-piazza-create-the-piazza-network-4dc8db98b81d\n\nEducator Insights During COVID\nAs instructors are faced with teaching in a new online environment, we\u2019ve started to compile educator insights, which can be found here:\nhttps://medium.com/piazza/tagged/tidbits-to-stay-connected\n\nAs you and your colleagues look to one another for tips to keep students engaged in this new virtual learning environment, we hope these educator insights provide you with ideas that you can take into your class.\n\n\n* * *\n\nWe hope this functionality helps as you manage your course communication on Piazza. Please don\u2019t hesitate to drop our team a note at team@piazza.com with additional ways we can improve your experience on Piazza, or if we can help with setting up your class on Piazza. \n\nPlease feel free to drop in (or have your colleagues drop in) for a live demo or office hour slot with our team at www.calendly.com/piazzasupport.",
+      "created":"2020-09-02T12:01:24.767Z",
+      "views":10
+   },
+   {
+      "subject":"Lab 2 section 3.1.2",
+      "content":"Hi I had a question about this section on the lab. So the three frequencies we test are 25, 400, 1000. I noticed a difference between the 25 Hz and 400 Hz (the 400 Hz was a lot deeper sounding), however, I didn&#39;t hear much of a difference between 400 and 1000. Also, when I compared the graphs of 400 and 1000, they were the same. I have put my code below.\n\nst = audioread(&#39;Lab2voice.wav&#39;);fsamp=8000;f=1000; &lt;------------------(here goes the 25, 400, 1000)t=0.1:1/fsamp:0.2;xt = st.*cos(2*pi*f*t);audiowrite(&#39;ECE2026Lab02sound3.wav&#39;,xt,fsamp)plot(t,xt(.1*fsamp:0.2*fsamp), &#39;b-&#39;),grid ontitle(&#39;Plot of xt3&#39;) &lt;-----------------(here goes xt1,xt2,and xt3 just to make the plots easy to understand)xlabel(&#39;TIME (sec)&#39;)",
+      "created":"2020-09-10T01:56:56.566Z",
+      "views":10
+   },
+   {
+      "subject":"#3.5",
+      "content":"how to know \u00a0(v(t)&#43;A) is positive for all t?\nam I doing right?",
+      "created":"2020-09-12T11:17:00.766Z",
+      "views":10
+   },
+   {
+      "subject":"Lab2 question",
+      "content":"In 3.3.1, what value should I have to put for phase1 and phase2?",
+      "created":"2020-09-14T15:00:35.497Z",
+      "views":10
+   },
+   {
+      "subject":"Lab 2 3.1.2 Help",
+      "content":"Here is my code so far for Part 3.1.2 of Lab 2. I still see the one/two audio supported error message so am I using the transpose function wrong? ",
+      "created":"2020-09-15T17:56:28.418Z",
+      "views":10
+   },
+   {
+      "subject":"Question 6 Test 1",
+      "content":"Im confused on what the first signal were given is. What does the y(t)= 9(x(t) cos etc do for this question?",
+      "created":"2020-09-18T13:49:52.820Z",
+      "views":10
+   },
+   {
+      "subject":"Tips & Tricks for a successful class",
+      "content":"PA.load(\"/dashboard/tips_tricks\", null, function(data){ $('#' + 'questionText').html(data);});",
+      "created":"2020-08-12T02:28:15.242Z",
+      "views":9
+   },
+   {
+      "subject":"Get familiar with Piazza",
+      "content":"PA.load(\"/dashboard/get_familiar\", null, function(data){ $('#' + 'questionText').html(data);});",
+      "created":"2020-08-12T02:28:15.261Z",
+      "views":9
+   },
+   {
+      "subject":"Upcoming Product Enhancements on Piazza",
+      "content":"Dear Instructors, \n\nWe\u2019ve added new capabilities for you to easily create groups in your Piazza class. We also wanted to share product enhancements that we are currently working on.\n\nStreamlining Group Assignments\nWe\u2019ve added the ability for you to upload a CSV file to easily create and assign sections of students to groups on Piazza. This will allow you to create and manage groups in a more automated manner, especially helpful for larger classes.\n\nYou can access this feature from your \u2018Manage Class\u2019 page under the \u2018Create Groups\u2019 section.\n\nNew 'Student Participation Export' Console\nWe are designing a new \u2018Student Participation Export\u2019 console that will allow you to easily export contributions and participation stats to a specific post or set of posts. The report will tally contributions and statistics by student, and will include follow up comments, replies to comments, as well as contributions and upvotes to Live Q&A posts. You\u2019ll also have the ability to schedule exports for future dates/times.\n\nThe \u2018Student Participation Export\u2019 console will be available in the coming weeks from your \u2018Statistics\u2019 page.\n\nEnhancements to Polls\nIn the virtual classroom setup (and with many classes moving to the flipped classroom model), instructors shared the need to get insight into which students are following along and which ones are struggling, both in the classroom and outside of class.\n\nTo help instructors gain insight, we're adding new capabilities to our polls feature, as well as streamlining the creating, copying and editing of polls. We're also adding support to easily publish and close polls from our mobile apps. Students will be able to participate in real-time from their mobile apps as well. \n\nWe believe these enhancements to polls will allow instructors, who are otherwise unable to join several breakout rooms at once, better understand which students need help in the live classroom setting as well as outside of regular lectures.\n\nResponsive Interface, Localization & Accessibility\nWe\u2019re enhancing our user interface to better support the needs of our growing instructor- and student- base, in over 90 countries and 2,000 institutions. These enhancements are geared to support responsiveness (allowing users to easily access Piazza from devices with smaller screens), support Piazza in different languages, and increase accessibility by providing full site features for users who require additional assistance to access Piazza.\n\nWe are taking a thoughtful and measured approach to this redesign, understanding that many of you have come to rely on the easy-to-use and intuitive nature of Piazza's interface. Every decision in our redesign will be made to ensure we maintain the simplicity of our site, while also enabling us to serve a broader and more diverse community. As such, we anticipate that this redesign will take several months, and we appreciate your patience and guidance throughout this effort.\n\n\n* * *\n\nWe\u2019re grateful for the feedback that we received from so many of you on how to further improve our product. If you have input for our team as we design these or other features, please don\u2019t hesitate to drop us a note at  productfeedback@piazza.com. We truly appreciate hearing from you.\n\nPlease feel free to drop in (or have your colleagues drop in) for a live demo or office hour slot with our team at www.calendly.com/piazzasupport, or email us at team@piazza.com if we can help with setting up your class on Piazza.",
+      "created":"2020-09-10T07:47:52.608Z",
+      "views":9
+   },
+   {
+      "subject":"question 3.5",
+      "content":"For question 3.5, instead of saying a specific number for A, can I use an expression like A&gt;=-3sqrt(2) &#43; 4?",
+      "created":"2020-09-10T14:45:35.367Z",
+      "views":9
+   },
+   {
+      "subject":"question 3.5",
+      "content":"\u00a0\nCan I have a negative number for A= -.24264?",
+      "created":"2020-09-10T15:12:44.452Z",
+      "views":9
+   },
+   {
+      "subject":"hw3_3.5b",
+      "content":"I was able to draw the spectrum for x(t). However, I have no idea how to check if (v(t)&#43;A) is positive for all t. The hint says to substitute for v(t) and expand x(t). After expansion, I have the sum of cosine terms with different frequencies. Then, am I supposed to graph x(t) with MATLAB to see what A is needed?\u00a0\n\nI might be wrong, but if I think about it simply in terms of looking at the minimum of each sinusoid for v(t). I know that when the sinusoids are added, the smallest possible value is going to be just the sum of those two mins. And thus A will be the negative of that value. I thought this seemed way too simple and was wondering if there is something that I am missing.",
+      "created":"2020-09-12T21:14:58.798Z",
+      "views":9
+   },
+   {
+      "subject":"plotspec",
+      "content":"What are the input arguments for plotspec? Im trying to check some of my answers but can&#39;t seem to find the code to make it work.\n\nAlso, for part a and b for 3.3 I am a bit worried. What I did for part a is, find frequency, multiply it by 2pi, but then i don&#39;t know what to do here.\u00a0",
+      "created":"2020-09-13T02:09:04.971Z",
+      "views":9
+   },
+   {
+      "subject":"Lab2 3.1.2",
+      "content":"\nHere is my code. I change fc to 25, 400 and 1000 but the output audio files and plots don&#39;t have any noticeable difference. I&#39;m assuming the issue is with my indexing but I&#39;m not sure where exactly I&#39;m going wrong?",
+      "created":"2020-09-15T15:04:30.099Z",
+      "views":9
+   },
+   {
+      "subject":"hw04_4.3",
+      "content":"For question 4.3,\u00a0I am stuck on part (d). I tried to follow the method in the Module 16 slides to do the Fourier integral, but do not know how to simplify this long integral into Fourier Coefficients.\nA hint will be very helpful for me to solve this question. Thanks!\n",
+      "created":"2020-09-17T01:28:02.740Z",
+      "views":9
+   },
+   {
+      "subject":"Lab02 Beatcon",
+      "content":"Does this look correct for the lab02 Beatcon portion?\u00a0 I can somewhat hear the &#34;beat&#34; but it isn&#39;t as pronounced as the example.\u00a0\u00a0\n\n",
+      "created":"2020-09-12T21:06:11.254Z",
+      "views":8
+   },
+   {
+      "subject":"HW 3 Question 3.3",
+      "content":"For 3.3a, do we need to solve for the phase or are we just assuming it is 0? If so, how would we solve for the phase because there was no initial condition given?For question 3.3b on homework 3, what does it mean that the sinusoid is centered at 900 Hz?\nThank you!",
+      "created":"2020-09-12T22:57:48.699Z",
+      "views":8
+   },
+   {
+      "subject":"hw04_4.5",
+      "content":"For 4.5(c), the hint says to consider what would I get if I were to add the square wave to the triangular wave from the textbook figures. I tried to search the square wave and triangular wave in the textbook, but could not find it. Does anyone know where this could be?",
+      "created":"2020-09-19T15:08:21.925Z",
+      "views":8
+   },
+   {
+      "subject":"HW4 table",
+      "content":"There&#39;s some question that I need to make a table of Fourier series coefficients, and values, and here&#39;s what I made for it.\n\nIs it a right way to make table, or am I doing something wrong?\n\n\n",
+      "created":"2020-09-20T12:03:41.233Z",
+      "views":8
+   },
+   {
+      "subject":"HW4.4",
+      "content":"its what I got for bk, can I write answer like that? I think bk when k is odd is weird.",
+      "created":"2020-09-21T08:30:40.884Z",
+      "views":8
+   },
+   {
+      "subject":"hw04_4.3",
+      "content":"I got an expression for $$a_k$$ and used the Fourier coefficient to find $$x_3(t)$$ as shown below. However, when I plotted this graph in MATLAB, it did not resemble what I drew in part a. Is my $$a_k$$ expression wrong? I have been working on this problem for days and it is very confusing.\n\n",
+      "created":"2020-09-21T14:20:45.823Z",
+      "views":8
+   },
+   {
+      "subject":"hw03_3.3",
+      "content":"Do we just leave the amplitude for x(t) as A?",
+      "created":"2020-09-12T19:42:27.471Z",
+      "views":7
+   },
+   {
+      "subject":"Homework 4 part 3",
+      "content":"I&#39;ve been staring at this one for a while and pretty stuck on it, especially part d. I think I drew the signal right but  part d I honestly don&#39;t know where to start.",
+      "created":"2020-09-20T03:04:40.763Z",
+      "views":6
+   }
+]

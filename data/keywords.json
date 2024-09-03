@@ -1,0 +1,1642 @@
+[
+    {
+        "id": 1,
+        "name": "A-to-D",
+        "synonym": 0
+    },
+    {
+        "id": 2,
+        "name": "converter",
+        "synonym": 0
+    },
+    {
+        "id": 4,
+        "name": "integral",
+        "synonym": 0
+    },
+    {
+        "id": 595,
+        "name": "radian",
+        "synonym": 0
+    },
+    {
+        "id": 11,
+        "name": "alias",
+        "synonym": 0
+    },
+    {
+        "id": 14,
+        "name": "aliasing",
+        "synonym": 11
+    },
+    {
+        "id": 15,
+        "name": "folding",
+        "synonym": 0
+    },
+    {
+        "id": 19,
+        "name": "amplitude",
+        "synonym": 0
+    },
+    {
+        "id": 22,
+        "name": "DSBAM",
+        "synonym": 0
+    },
+    {
+        "id": 24,
+        "name": "modulation",
+        "synonym": 0
+    },
+    {
+        "id": 25,
+        "name": "phase",
+        "synonym": 0
+    },
+    {
+        "id": 662,
+        "name": "real BPF",
+        "synonym": null
+    },
+    {
+        "id": 622,
+        "name": "causal running averager",
+        "synonym": null
+    },
+    {
+        "id": 30,
+        "name": "analog",
+        "synonym": 0
+    },
+    {
+        "id": 32,
+        "name": "analog-to-digital",
+        "synonym": 1
+    },
+    {
+        "id": 34,
+        "name": "angle",
+        "synonym": 0
+    },
+    {
+        "id": 35,
+        "name": "complex",
+        "synonym": 0
+    },
+    {
+        "id": 39,
+        "name": "property",
+        "synonym": 0
+    },
+    {
+        "id": 40,
+        "name": "convolution",
+        "synonym": 0
+    },
+    {
+        "id": 654,
+        "name": "factorization",
+        "synonym": 0
+    },
+    {
+        "id": 43,
+        "name": "band-reject",
+        "synonym": 0
+    },
+    {
+        "id": 44,
+        "name": "filter",
+        "synonym": 0
+    },
+    {
+        "id": 46,
+        "name": "bandlimited",
+        "synonym": 0
+    },
+    {
+        "id": 47,
+        "name": "interpolation",
+        "synonym": 0
+    },
+    {
+        "id": 617,
+        "name": "under-sampling",
+        "synonym": 0
+    },
+    {
+        "id": 49,
+        "name": "bandpass",
+        "synonym": 0
+    },
+    {
+        "id": 50,
+        "name": "bandstop",
+        "synonym": 0
+    },
+    {
+        "id": 51,
+        "name": "bandwidth",
+        "synonym": 0
+    },
+    {
+        "id": 52,
+        "name": "baseband",
+        "synonym": 0
+    },
+    {
+        "id": 53,
+        "name": "spectrum",
+        "synonym": 0
+    },
+    {
+        "id": 54,
+        "name": "beat",
+        "synonym": 0
+    },
+    {
+        "id": 581,
+        "name": "pezdemo",
+        "synonym": 0
+    },
+    {
+        "id": 56,
+        "name": "block diagram",
+        "synonym": 0
+    },
+    {
+        "id": 645,
+        "name": "dirichlet function",
+        "synonym": null
+    },
+    {
+        "id": 646,
+        "name": "w-to-what",
+        "synonym": 0
+    },
+    {
+        "id": 63,
+        "name": "spectrogram",
+        "synonym": 0
+    },
+    {
+        "id": 64,
+        "name": "frequency",
+        "synonym": 0
+    },
+    {
+        "id": 630,
+        "name": "time invariance",
+        "synonym": null
+    },
+    {
+        "id": 67,
+        "name": "cascade",
+        "synonym": 0
+    },
+    {
+        "id": 69,
+        "name": "cascaded",
+        "synonym": 67
+    },
+    {
+        "id": 70,
+        "name": "LTI",
+        "synonym": 0
+    },
+    {
+        "id": 631,
+        "name": "LTI system",
+        "synonym": null
+    },
+    {
+        "id": 73,
+        "name": "causality",
+        "synonym": 72
+    },
+    {
+        "id": 75,
+        "name": "cconvdemo",
+        "synonym": 0
+    },
+    {
+        "id": 78,
+        "name": "averager",
+        "synonym": 0
+    },
+    {
+        "id": 79,
+        "name": "chirp",
+        "synonym": 0
+    },
+    {
+        "id": 80,
+        "name": "cltidemo",
+        "synonym": 0
+    },
+    {
+        "id": 81,
+        "name": "colon",
+        "synonym": 0
+    },
+    {
+        "id": 650,
+        "name": "delay property",
+        "synonym": null
+    },
+    {
+        "id": 88,
+        "name": "orthogonality",
+        "synonym": 0
+    },
+    {
+        "id": 93,
+        "name": "vector",
+        "synonym": 0
+    },
+    {
+        "id": 96,
+        "name": "roots",
+        "synonym": 0
+    },
+    {
+        "id": 97,
+        "name": "conjugate",
+        "synonym": 0
+    },
+    {
+        "id": 598,
+        "name": "principle value",
+        "synonym": null
+    },
+    {
+        "id": 99,
+        "name": "continuous-time",
+        "synonym": 0
+    },
+    {
+        "id": 106,
+        "name": "CTFT",
+        "synonym": 0
+    },
+    {
+        "id": 663,
+        "name": "analog frequency",
+        "synonym": null
+    },
+    {
+        "id": 108,
+        "name": "stability",
+        "synonym": 0
+    },
+    {
+        "id": 109,
+        "name": "finite-length",
+        "synonym": 0
+    },
+    {
+        "id": 605,
+        "name": "fundamental",
+        "synonym": 0
+    },
+    {
+        "id": 113,
+        "name": "two-sided",
+        "synonym": 0
+    },
+    {
+        "id": 609,
+        "name": "triangle wave",
+        "synonym": null
+    },
+    {
+        "id": 115,
+        "name": "ideal",
+        "synonym": 0
+    },
+    {
+        "id": 116,
+        "name": "delay",
+        "synonym": 0
+    },
+    {
+        "id": 603,
+        "name": "deviation frequency",
+        "synonym": null
+    },
+    {
+        "id": 118,
+        "name": "impulse",
+        "synonym": 0
+    },
+    {
+        "id": 120,
+        "name": "unit-step",
+        "synonym": 0
+    },
+    {
+        "id": 121,
+        "name": "continuous-to-discrete",
+        "synonym": 122
+    },
+    {
+        "id": 122,
+        "name": "C-to-D",
+        "synonym": 0
+    },
+    {
+        "id": 633,
+        "name": "commutative property",
+        "synonym": null
+    },
+    {
+        "id": 604,
+        "name": "carrier frequency",
+        "synonym": null
+    },
+    {
+        "id": 127,
+        "name": "MATLAB",
+        "synonym": 0
+    },
+    {
+        "id": 580,
+        "name": "ASCII",
+        "synonym": 0
+    },
+    {
+        "id": 130,
+        "name": "z-transform",
+        "synonym": 0
+    },
+    {
+        "id": 132,
+        "name": "cosine",
+        "synonym": 0
+    },
+    {
+        "id": 136,
+        "name": "cutoff",
+        "synonym": 0
+    },
+    {
+        "id": 139,
+        "name": "window",
+        "synonym": 0
+    },
+    {
+        "id": 140,
+        "name": "DC",
+        "synonym": 0
+    },
+    {
+        "id": 141,
+        "name": "coefficient",
+        "synonym": 0
+    },
+    {
+        "id": 144,
+        "name": "deconvolution",
+        "synonym": 0
+    },
+    {
+        "id": 146,
+        "name": "running-average",
+        "synonym": 0
+    },
+    {
+        "id": 148,
+        "name": "delta",
+        "synonym": 0
+    },
+    {
+        "id": 612,
+        "name": "principal alias",
+        "synonym": null
+    },
+    {
+        "id": 611,
+        "name": "rate",
+        "synonym": 0
+    },
+    {
+        "id": 610,
+        "name": "angle function",
+        "synonym": null
+    },
+    {
+        "id": 152,
+        "name": "derivative",
+        "synonym": 0
+    },
+    {
+        "id": 660,
+        "name": "L-pt running filter",
+        "synonym": null
+    },
+    {
+        "id": 156,
+        "name": "DFT",
+        "synonym": 0
+    },
+    {
+        "id": 651,
+        "name": "multiplicative property",
+        "synonym": null
+    },
+    {
+        "id": 160,
+        "name": "integration",
+        "synonym": 0
+    },
+    {
+        "id": 161,
+        "name": "digital-to-analog",
+        "synonym": 162
+    },
+    {
+        "id": 162,
+        "name": "D-to-A",
+        "synonym": 0
+    },
+    {
+        "id": 165,
+        "name": "structure",
+        "synonym": 0
+    },
+    {
+        "id": 167,
+        "name": "dirichlet",
+        "synonym": 0
+    },
+    {
+        "id": 168,
+        "name": "discrete",
+        "synonym": 170
+    },
+    {
+        "id": 170,
+        "name": "discrete-time",
+        "synonym": 0
+    },
+    {
+        "id": 172,
+        "name": "DTFT",
+        "synonym": 0
+    },
+    {
+        "id": 173,
+        "name": "inverse",
+        "synonym": 0
+    },
+    {
+        "id": 175,
+        "name": "discrete-to-continuous",
+        "synonym": 176
+    },
+    {
+        "id": 176,
+        "name": "D-to-C",
+        "synonym": 0
+    },
+    {
+        "id": 626,
+        "name": "finite",
+        "synonym": 0
+    },
+    {
+        "id": 608,
+        "name": "square wave",
+        "synonym": null
+    },
+    {
+        "id": 183,
+        "name": "sinc",
+        "synonym": 0
+    },
+    {
+        "id": 627,
+        "name": "multiplier",
+        "synonym": 0
+    },
+    {
+        "id": 186,
+        "name": "DTMF",
+        "synonym": 0
+    },
+    {
+        "id": 628,
+        "name": "adder",
+        "synonym": 0
+    },
+    {
+        "id": 192,
+        "name": "echo",
+        "synonym": 0
+    },
+    {
+        "id": 195,
+        "name": "envelope",
+        "synonym": 0
+    },
+    {
+        "id": 197,
+        "name": "Euler",
+        "synonym": 0
+    },
+    {
+        "id": 198,
+        "name": "factoring",
+        "synonym": 0
+    },
+    {
+        "id": 199,
+        "name": "z-polynomials",
+        "synonym": 0
+    },
+    {
+        "id": 201,
+        "name": "FFT",
+        "synonym": 0
+    },
+    {
+        "id": 202,
+        "name": "FDM",
+        "synonym": 0
+    },
+    {
+        "id": 203,
+        "name": "feed-forward",
+        "synonym": 0
+    },
+    {
+        "id": 204,
+        "name": "coefficients",
+        "synonym": 141
+    },
+    {
+        "id": 648,
+        "name": "system function",
+        "synonym": null
+    },
+    {
+        "id": 206,
+        "name": "length",
+        "synonym": 0
+    },
+    {
+        "id": 208,
+        "name": "sampled",
+        "synonym": 402
+    },
+    {
+        "id": 209,
+        "name": "speech",
+        "synonym": 0
+    },
+    {
+        "id": 211,
+        "name": "duration",
+        "synonym": 0
+    },
+    {
+        "id": 212,
+        "name": "FIR",
+        "synonym": 0
+    },
+    {
+        "id": 213,
+        "name": "pulse",
+        "synonym": 0
+    },
+    {
+        "id": 214,
+        "name": "first-difference",
+        "synonym": 0
+    },
+    {
+        "id": 215,
+        "name": "first-order",
+        "synonym": 0
+    },
+    {
+        "id": 216,
+        "name": "FM",
+        "synonym": 0
+    },
+    {
+        "id": 613,
+        "name": "shannon sampling theorem",
+        "synonym": null
+    },
+    {
+        "id": 649,
+        "name": "superposition property",
+        "synonym": null
+    },
+    {
+        "id": 222,
+        "name": "convergence",
+        "synonym": 0
+    },
+    {
+        "id": 225,
+        "name": "plot",
+        "synonym": 0
+    },
+    {
+        "id": 228,
+        "name": "synthesis",
+        "synonym": 0
+    },
+    {
+        "id": 233,
+        "name": "linearity",
+        "synonym": 0
+    },
+    {
+        "id": 234,
+        "name": "periodic",
+        "synonym": 0
+    },
+    {
+        "id": 235,
+        "name": "properties",
+        "synonym": 0
+    },
+    {
+        "id": 647,
+        "name": "z-transform pair",
+        "synonym": null
+    },
+    {
+        "id": 240,
+        "name": "scaling",
+        "synonym": 0
+    },
+    {
+        "id": 621,
+        "name": "causal filter",
+        "synonym": null
+    },
+    {
+        "id": 658,
+        "name": "pole-zero plot",
+        "synonym": null
+    },
+    {
+        "id": 250,
+        "name": "frequency shift",
+        "synonym": 0
+    },
+    {
+        "id": 252,
+        "name": "FSK",
+        "synonym": 0
+    },
+    {
+        "id": 253,
+        "name": "modem",
+        "synonym": 0
+    },
+    {
+        "id": 254,
+        "name": "frequency domain",
+        "synonym": 0
+    },
+    {
+        "id": 258,
+        "name": "period",
+        "synonym": 0
+    },
+    {
+        "id": 259,
+        "name": "gain",
+        "synonym": 0
+    },
+    {
+        "id": 261,
+        "name": "half-power",
+        "synonym": 0
+    },
+    {
+        "id": 263,
+        "name": "half-wave",
+        "synonym": 0
+    },
+    {
+        "id": 618,
+        "name": "cubic spline",
+        "synonym": null
+    },
+    {
+        "id": 265,
+        "name": "Hamming",
+        "synonym": 0
+    },
+    {
+        "id": 266,
+        "name": "Hann",
+        "synonym": 0
+    },
+    {
+        "id": 267,
+        "name": "harmonic",
+        "synonym": 0
+    },
+    {
+        "id": 269,
+        "name": "highpass",
+        "synonym": 0
+    },
+    {
+        "id": 270,
+        "name": "lowpass",
+        "synonym": 0
+    },
+    {
+        "id": 272,
+        "name": "IIR",
+        "synonym": 0
+    },
+    {
+        "id": 273,
+        "name": "digital",
+        "synonym": 0
+    },
+    {
+        "id": 274,
+        "name": "image",
+        "synonym": 0
+    },
+    {
+        "id": 634,
+        "name": "associative property",
+        "synonym": null
+    },
+    {
+        "id": 281,
+        "name": "sequence",
+        "synonym": 0
+    },
+    {
+        "id": 286,
+        "name": "input-signal",
+        "synonym": 0
+    },
+    {
+        "id": 287,
+        "name": "linear",
+        "synonym": 0
+    },
+    {
+        "id": 582,
+        "name": "filter coefficients",
+        "synonym": null
+    },
+    {
+        "id": 578,
+        "name": "lookfor()",
+        "synonym": 0
+    },
+    {
+        "id": 586,
+        "name": "linear phase filter",
+        "synonym": null
+    },
+    {
+        "id": 583,
+        "name": "complex conjugate",
+        "synonym": null
+    },
+    {
+        "id": 584,
+        "name": "spectrogram()",
+        "synonym": 0
+    },
+    {
+        "id": 596,
+        "name": "cyclic",
+        "synonym": 0
+    },
+    {
+        "id": 301,
+        "name": "time-invariant",
+        "synonym": 0
+    },
+    {
+        "id": 601,
+        "name": "beat note",
+        "synonym": null
+    },
+    {
+        "id": 305,
+        "name": "magnitude",
+        "synonym": 0
+    },
+    {
+        "id": 602,
+        "name": "center frequency",
+        "synonym": null
+    },
+    {
+        "id": 309,
+        "name": "debugging",
+        "synonym": 0
+    },
+    {
+        "id": 313,
+        "name": "command",
+        "synonym": 0
+    },
+    {
+        "id": 659,
+        "name": "L-th roots of unity",
+        "synonym": null
+    },
+    {
+        "id": 319,
+        "name": "matrix",
+        "synonym": 0
+    },
+    {
+        "id": 323,
+        "name": "gui",
+        "synonym": 0
+    },
+    {
+        "id": 324,
+        "name": "con2dis",
+        "synonym": 0
+    },
+    {
+        "id": 325,
+        "name": "dconvdemo",
+        "synonym": 0
+    },
+    {
+        "id": 326,
+        "name": "dltidemo",
+        "synonym": 0
+    },
+    {
+        "id": 327,
+        "name": "zdrill",
+        "synonym": 0
+    },
+    {
+        "id": 328,
+        "name": "programming",
+        "synonym": 0
+    },
+    {
+        "id": 334,
+        "name": "multipath",
+        "synonym": 0
+    },
+    {
+        "id": 640,
+        "name": "first-difference system",
+        "synonym": null
+    },
+    {
+        "id": 344,
+        "name": "noncausal",
+        "synonym": 0
+    },
+    {
+        "id": 345,
+        "name": "nonlinear",
+        "synonym": 0
+    },
+    {
+        "id": 620,
+        "name": "signal support",
+        "synonym": null
+    },
+    {
+        "id": 624,
+        "name": "delay system",
+        "synonym": null
+    },
+    {
+        "id": 353,
+        "name": "order",
+        "synonym": 0
+    },
+    {
+        "id": 600,
+        "name": "sum of sinusoids",
+        "synonym": null
+    },
+    {
+        "id": 360,
+        "name": "passband",
+        "synonym": 0
+    },
+    {
+        "id": 362,
+        "name": "periodicity",
+        "synonym": 234
+    },
+    {
+        "id": 364,
+        "name": "phasor",
+        "synonym": 0
+    },
+    {
+        "id": 585,
+        "name": "L-point running filter",
+        "synonym": null
+    },
+    {
+        "id": 368,
+        "name": "piano",
+        "synonym": 0
+    },
+    {
+        "id": 372,
+        "name": "polar",
+        "synonym": 0
+    },
+    {
+        "id": 373,
+        "name": "poles",
+        "synonym": 0
+    },
+    {
+        "id": 374,
+        "name": "pole-zero",
+        "synonym": 0
+    },
+    {
+        "id": 375,
+        "name": "polynomial",
+        "synonym": 0
+    },
+    {
+        "id": 378,
+        "name": "superposition",
+        "synonym": 0
+    },
+    {
+        "id": 616,
+        "name": "over-sampling",
+        "synonym": 0
+    },
+    {
+        "id": 380,
+        "name": "quadrature",
+        "synonym": 0
+    },
+    {
+        "id": 384,
+        "name": "receiver",
+        "synonym": 0
+    },
+    {
+        "id": 639,
+        "name": "time domain-to-frequency domain",
+        "synonym": null
+    },
+    {
+        "id": 390,
+        "name": "region",
+        "synonym": 0
+    },
+    {
+        "id": 657,
+        "name": "z",
+        "synonym": 0
+    },
+    {
+        "id": 656,
+        "name": "z-domain-to-frequency domain",
+        "synonym": null
+    },
+    {
+        "id": 652,
+        "name": "cascade filters",
+        "synonym": null
+    },
+    {
+        "id": 397,
+        "name": "sample-and-hold",
+        "synonym": 0
+    },
+    {
+        "id": 615,
+        "name": "C-to-D-to-C",
+        "synonym": 0
+    },
+    {
+        "id": 402,
+        "name": "sampling",
+        "synonym": 0
+    },
+    {
+        "id": 597,
+        "name": "reducing mod",
+        "synonym": null
+    },
+    {
+        "id": 406,
+        "name": "second-order",
+        "synonym": 0
+    },
+    {
+        "id": 644,
+        "name": "running-average filter",
+        "synonym": null
+    },
+    {
+        "id": 642,
+        "name": "lowpass filter",
+        "synonym": null
+    },
+    {
+        "id": 412,
+        "name": "sine",
+        "synonym": 0
+    },
+    {
+        "id": 588,
+        "name": "signal",
+        "synonym": 0
+    },
+    {
+        "id": 589,
+        "name": "system",
+        "synonym": 0
+    },
+    {
+        "id": 590,
+        "name": "CT",
+        "synonym": 0
+    },
+    {
+        "id": 591,
+        "name": "DT",
+        "synonym": 0
+    },
+    {
+        "id": 592,
+        "name": "video",
+        "synonym": 0
+    },
+    {
+        "id": 423,
+        "name": "sinusoid",
+        "synonym": 0
+    },
+    {
+        "id": 424,
+        "name": "sinusoid-in",
+        "synonym": 0
+    },
+    {
+        "id": 425,
+        "name": "sinusoid-out",
+        "synonym": 0
+    },
+    {
+        "id": 661,
+        "name": "complex BPF",
+        "synonym": null
+    },
+    {
+        "id": 432,
+        "name": "spectral",
+        "synonym": 53
+    },
+    {
+        "id": 441,
+        "name": "stable",
+        "synonym": 0
+    },
+    {
+        "id": 443,
+        "name": "stopband",
+        "synonym": 0
+    },
+    {
+        "id": 444,
+        "name": "strobe",
+        "synonym": 0
+    },
+    {
+        "id": 637,
+        "name": "transient region",
+        "synonym": null
+    },
+    {
+        "id": 636,
+        "name": "time domain",
+        "synonym": null
+    },
+    {
+        "id": 455,
+        "name": "movie",
+        "synonym": 0
+    },
+    {
+        "id": 456,
+        "name": "time-delay",
+        "synonym": 0
+    },
+    {
+        "id": 458,
+        "name": "time-dependent",
+        "synonym": 0
+    },
+    {
+        "id": 459,
+        "name": "time-domain",
+        "synonym": 0
+    },
+    {
+        "id": 460,
+        "name": "time-flip",
+        "synonym": 0
+    },
+    {
+        "id": 461,
+        "name": "time-frequency",
+        "synonym": 0
+    },
+    {
+        "id": 462,
+        "name": "invariance",
+        "synonym": 0
+    },
+    {
+        "id": 463,
+        "name": "time-varying",
+        "synonym": 0
+    },
+    {
+        "id": 464,
+        "name": "time-waveform",
+        "synonym": 0
+    },
+    {
+        "id": 465,
+        "name": "time-windowing",
+        "synonym": 0
+    },
+    {
+        "id": 468,
+        "name": "transmitter",
+        "synonym": 0
+    },
+    {
+        "id": 641,
+        "name": "highpass filter",
+        "synonym": null
+    },
+    {
+        "id": 470,
+        "name": "triangle",
+        "synonym": 0
+    },
+    {
+        "id": 471,
+        "name": "trigonometric",
+        "synonym": 0
+    },
+    {
+        "id": 472,
+        "name": "identities",
+        "synonym": 0
+    },
+    {
+        "id": 476,
+        "name": "unit-delay",
+        "synonym": 0
+    },
+    {
+        "id": 477,
+        "name": "unstable",
+        "synonym": 0
+    },
+    {
+        "id": 480,
+        "name": "wideband",
+        "synonym": 0
+    },
+    {
+        "id": 482,
+        "name": "z-domain",
+        "synonym": 0
+    },
+    {
+        "id": 483,
+        "name": "z-plane",
+        "synonym": 0
+    },
+    {
+        "id": 485,
+        "name": "zero-padding",
+        "synonym": 0
+    },
+    {
+        "id": 486,
+        "name": "zeros",
+        "synonym": 0
+    },
+    {
+        "id": 496,
+        "name": "AM",
+        "synonym": 0
+    },
+    {
+        "id": 502,
+        "name": "fundamental period",
+        "synonym": 0
+    },
+    {
+        "id": 505,
+        "name": "roots()",
+        "synonym": 0
+    },
+    {
+        "id": 506,
+        "name": "poly()",
+        "synonym": 0
+    },
+    {
+        "id": 507,
+        "name": "frequency response",
+        "synonym": 0
+    },
+    {
+        "id": 508,
+        "name": "impulse response",
+        "synonym": 0
+    },
+    {
+        "id": 509,
+        "name": "unit-circle",
+        "synonym": 0
+    },
+    {
+        "id": 511,
+        "name": "nyquist rate",
+        "synonym": 0
+    },
+    {
+        "id": 653,
+        "name": "cascade system",
+        "synonym": null
+    },
+    {
+        "id": 577,
+        "name": "plot()",
+        "synonym": 0
+    },
+    {
+        "id": 607,
+        "name": "orthognality property",
+        "synonym": null
+    },
+    {
+        "id": 619,
+        "name": "ideal bandlimited",
+        "synonym": null
+    },
+    {
+        "id": 643,
+        "name": "cascade LTI system",
+        "synonym": null
+    },
+    {
+        "id": 614,
+        "name": "D-to-C converter",
+        "synonym": null
+    },
+    {
+        "id": 579,
+        "name": "unit impulse",
+        "synonym": 0
+    },
+    {
+        "id": 638,
+        "name": "steady-state region",
+        "synonym": null
+    },
+    {
+        "id": 512,
+        "name": "running-sum",
+        "synonym": 0
+    },
+    {
+        "id": 513,
+        "name": "geometric series",
+        "synonym": 0
+    },
+    {
+        "id": 514,
+        "name": "complex number",
+        "synonym": 0
+    },
+    {
+        "id": 515,
+        "name": "cochlear",
+        "synonym": 0
+    },
+    {
+        "id": 516,
+        "name": "fourier transform",
+        "synonym": 0
+    },
+    {
+        "id": 517,
+        "name": "gaussian",
+        "synonym": 0
+    },
+    {
+        "id": 518,
+        "name": "real part",
+        "synonym": 0
+    },
+    {
+        "id": 519,
+        "name": "roots of unity",
+        "synonym": 0
+    },
+    {
+        "id": 520,
+        "name": "polar form",
+        "synonym": 0
+    },
+    {
+        "id": 521,
+        "name": "rectangular form",
+        "synonym": 0
+    },
+    {
+        "id": 522,
+        "name": "downsampler",
+        "synonym": 0
+    },
+    {
+        "id": 523,
+        "name": "circular-convolution",
+        "synonym": 0
+    },
+    {
+        "id": 524,
+        "name": "imaginary part",
+        "synonym": 0
+    },
+    {
+        "id": 525,
+        "name": "partial fraction",
+        "synonym": 0
+    },
+    {
+        "id": 527,
+        "name": "complex plane",
+        "synonym": 0
+    },
+    {
+        "id": 528,
+        "name": "transfer-function",
+        "synonym": 0
+    },
+    {
+        "id": 530,
+        "name": "difference equation",
+        "synonym": 0
+    },
+    {
+        "id": 531,
+        "name": "allpass",
+        "synonym": 0
+    },
+    {
+        "id": 623,
+        "name": "finite-length signal",
+        "synonym": null
+    },
+    {
+        "id": 533,
+        "name": "notch-filter",
+        "synonym": 0
+    },
+    {
+        "id": 534,
+        "name": "laplace transform",
+        "synonym": 0
+    },
+    {
+        "id": 535,
+        "name": "BIBO",
+        "synonym": 0
+    },
+    {
+        "id": 536,
+        "name": "ROC",
+        "synonym": 0
+    },
+    {
+        "id": 537,
+        "name": "soundsc()",
+        "synonym": 0
+    },
+    {
+        "id": 538,
+        "name": "sampling frequency",
+        "synonym": 0
+    },
+    {
+        "id": 539,
+        "name": "sampling rate",
+        "synonym": 0
+    },
+    {
+        "id": 540,
+        "name": "fourier series",
+        "synonym": 0
+    },
+    {
+        "id": 541,
+        "name": "rectangular pulse",
+        "synonym": 0
+    },
+    {
+        "id": 542,
+        "name": "DC-value",
+        "synonym": 0
+    },
+    {
+        "id": 543,
+        "name": "complex amplitude",
+        "synonym": 0
+    },
+    {
+        "id": 544,
+        "name": "fundamental frequency",
+        "synonym": 0
+    },
+    {
+        "id": 545,
+        "name": "conjugate symmetry",
+        "synonym": 0
+    },
+    {
+        "id": 546,
+        "name": "cartesian form",
+        "synonym": 0
+    },
+    {
+        "id": 547,
+        "name": "inverse-DTFT",
+        "synonym": 0
+    },
+    {
+        "id": 548,
+        "name": "inverse-DFT",
+        "synonym": 0
+    },
+    {
+        "id": 549,
+        "name": "zeros()",
+        "synonym": 0
+    },
+    {
+        "id": 550,
+        "name": "PeZ",
+        "synonym": 0
+    },
+    {
+        "id": 551,
+        "name": "vectorization",
+        "synonym": 0
+    },
+    {
+        "id": 552,
+        "name": "nulling filter",
+        "synonym": 0
+    },
+    {
+        "id": 553,
+        "name": "abs()",
+        "synonym": 0
+    },
+    {
+        "id": 554,
+        "name": "zcat()",
+        "synonym": 0
+    },
+    {
+        "id": 555,
+        "name": "freqz()",
+        "synonym": 0
+    },
+    {
+        "id": 556,
+        "name": "find()",
+        "synonym": 0
+    },
+    {
+        "id": 557,
+        "name": "fplot()",
+        "synonym": 0
+    },
+    {
+        "id": 558,
+        "name": "phase shift",
+        "synonym": 0
+    },
+    {
+        "id": 559,
+        "name": "H(z)",
+        "synonym": 648
+    },
+    {
+        "id": 560,
+        "name": "fourier synthesis",
+        "synonym": 0
+    },
+    {
+        "id": 561,
+        "name": "ctranspose()",
+        "synonym": 0
+    },
+    {
+        "id": 562,
+        "name": "filterdemo",
+        "synonym": 0
+    },
+    {
+        "id": 587,
+        "name": "inverse z-transform",
+        "synonym": null
+    },
+    {
+        "id": 564,
+        "name": "VonHann",
+        "synonym": 0
+    },
+    {
+        "id": 565,
+        "name": "zero-order hold",
+        "synonym": 0
+    },
+    {
+        "id": 566,
+        "name": "which()",
+        "synonym": 0
+    },
+    {
+        "id": 567,
+        "name": "concatenation",
+        "synonym": 0
+    },
+    {
+        "id": 568,
+        "name": "complex exponential",
+        "synonym": 0
+    },
+    {
+        "id": 569,
+        "name": "modulating frequency",
+        "synonym": 0
+    },
+    {
+        "id": 570,
+        "name": "instantaneous frequency",
+        "synonym": 0
+    },
+    {
+        "id": 571,
+        "name": "phase angle",
+        "synonym": 0
+    },
+    {
+        "id": 572,
+        "name": "time-shift",
+        "synonym": 0
+    },
+    {
+        "id": 573,
+        "name": "cutoff frequency",
+        "synonym": 0
+    },
+    {
+        "id": 574,
+        "name": "zvec()",
+        "synonym": 0
+    },
+    {
+        "id": 575,
+        "name": "Blackman",
+        "synonym": 0
+    },
+    {
+        "id": 576,
+        "name": "filter length",
+        "synonym": 0
+    }
+]
